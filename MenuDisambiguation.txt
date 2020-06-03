@@ -51,13 +51,21 @@ ________________
 OCEAN BASKET
 
 	Starters		['Crumbed Prawn Tails', 'Lemon Garlic Mussels', 'Firecracker Squid']
+
 	Salads			['Village Salad', 'Village Table Salad', 'Med Veg Bowl', 'Seared Salmon Salad']
+
 	Fish			['Famous Fish and Chips', 'Kingklip', 'Sole', 'Grilled Salmon']
+
 	Prawns			[Prawn Special', 'Prince Prawns', 'Queen Prawns', 'King Prawns']
+
 	Calamari		[Calamari', 'Calamari 3 Ways', 'Calamari Steak']
+
 	Sushi			['Maki', 'Nagiri', 'Sashimi']
+
 	Desserts		['Ice Cream with Decadent Sauce', 'Chocolate Lava Cake', 'Toffee Nut Pie']
+
 	Platters		['Bite of the Ocean', 'Solemate Platter', 'Family Platter']
+	
 	Sides			[Halloumi Cheese', 'Mussels', 'Calamari', 'Prince Prawns']
 
 	Merge back into main categories

@@ -1,0 +1,223 @@
+Use Miracle Box Software or Volcano Box Software to Flash this firmware.
+
+Miracle Box Link: https://naijarom.com/tag/miracle-box
+
+fuzzywuzzy
+Knowledge Base
+
+for each of the brands, say what categories are.
+	Spur, 
+	RocoMamas, 
+	Spur, 
+	Hussar, 
+	John Dory's
+
+
+Ask Ryan which ones can be grouped together
+
+
+
+
+
+
+
+
+
+
+
+
+
+Think of which brands can go together
+	(CATEGORISING THE MENU ITEMS) aka (ENTITY DISAMBIGUATION)
+
+
+Broader Categories
+	Beef
+	Ribs
+	Chicken
+	Vegetarian (anything that isn't meat)
+
+Need Menu Categories for all brands
+	Group them into their expertise
+
+Do major brands for each kind of restaurant 
+	ex. CTFM-JD-OB
+	ex. Spur-Hussar
+	ex. Pannarotis-Debonnairs
+
+
+
+________________
+OCEAN BASKET
+
+	Starters		['Crumbed Prawn Tails', 'Lemon Garlic Mussels', 'Firecracker Squid']
+	Salads			['Village Salad', 'Village Table Salad', 'Med Veg Bowl', 'Seared Salmon Salad']
+	Fish			['Famous Fish and Chips', 'Kingklip', 'Sole', 'Grilled Salmon']
+	Prawns			[Prawn Special', 'Prince Prawns', 'Queen Prawns', 'King Prawns']
+	Calamari		[Calamari', 'Calamari 3 Ways', 'Calamari Steak']
+	Sushi			['Maki', 'Nagiri', 'Sashimi']
+	Desserts		['Ice Cream with Decadent Sauce', 'Chocolate Lava Cake', 'Toffee Nut Pie']
+	Platters		['Bite of the Ocean', 'Solemate Platter', 'Family Platter']
+	Sides			[Halloumi Cheese', 'Mussels', 'Calamari', 'Prince Prawns']
+
+	Merge back into main categories
+	Drinks (Kids)	[Items include Main Meals, Drinks, Desserts]
+	Desserts (Kids)	[Ice Cream with Decadent Sauce', 'Ice Cream and Turkish Delight']
+	Treats (Kids)	[Choc Crunch', 'Strawberry Citrus', 'Rose Baklava', 'Yogi Berry']
+
+
+_________________
+ROCO MAMAS
+	
+	+ Suggestion: Look at overlap and group into relevant category
+	Starters		['Six Bombs', 'Los Nachos', 'Southern Fried Chicken Strips']
+
+	Split burgers into beef, chicken etc
+	Burgers			['Southern Fried Chicken Breast', 'Chicken Smash']
+	Salads			['Chicken Caesar', 'Spicy Coleslaw', 'Garden Greek']
+	Meals(?)		['Turbo Charged Fries', 'Smashedbrew Fried Onion Rings']
+	Desserts		[Everything in G-Shakes, Freak Shakes and Killer Waffles]
+
+
+__________________
+John Dory's
+
+	+ Dissemble and throw into broad categories
+	Starters		[Calamari Tubes', 'Mussel Bowl', 'Cheesy Garlic Roll', 'Fresh Oysters']
+
+	+ Suggestion: break down and place into broader category
+	Salads			[Greek Salad', 'Cajun Chicken Salad']
+
+	+ Split to more broader categories
+	Light Meals		[Prawn Tacos', 'Chicken Tacos', 'Fish Tacos', 'Salmon Bowl', 'Chicken Bowl']
+	Fish			[Hake & Chips', 'Sole', 'Kingklip', 'Hake Thermidor', 'Calamari Tubes']
+	Prawns			[Queen Prawns', 'King Prawns']
+	Platters		[Sunset Platter', 'Coastal Platter', 'Johns Platter', 'Captains Platter']
+
+	+ QUESTION: Split or Not
+	Combos			[Hake & Calamari Tubes', 'Sole & Prawn', 'Hake & Prawns']
+
+	+ Split to broader categories
+	Grills			[Tender Cut Steak', 'Portuguese Steak', 'Tempura Chicken Schnitzel', 'Ribs']
+	Sushi			[Prawn Volcano', 'Dragon Roll', 'Tuna Crunch Roll', 'Executive Rainbow Roll']
+
+	+ Remove items and throw to relevant categories
+	Sides			[Side Salad', 'Chips', 'Savoury Rice', 'Calamari Strips', 'Coleslaw']
+	Desserts		[Brownie', 'Peppermint Tart', 'Mini Doughnuts', 'Ice Cream & Bar-One Sauce' 'Milkybar & Jelly Tots', 'Kikkat', 'Salted Caramel', 'Shakes']
+	Drinks			[Regular Soda', 'Large Soda', 'Powerplay', 'Sugar Free Soda']
+
+	+ send to main categories
+	Meals (Kids)	[Fish Fingers and Chips', 'Calamari Strips and Chips', 'Prawns and Chips']
+	Drinks (Kids)	['Slush Puppie', 'Ceres', 'Kids Soda']
+	Desserts (kids)	['Ice Cream and Chocolate Pearls', 'Ice Cream and Bar-One Sauce']
+
+
+__________________
+
+
++ The 'Other' category has items that need suggestions for where they can be categorised. I'm not finding enough info from Spur's menu to suggest if some are vegan or not...for instance 'Crumbed Mushrooms' - traditionally they are unless they are fried in animal fat or oil that had previously fried meats
+
++ Keep 'Breakfast' category as there's a lot of items in it
+
++ Removed 'Kids' prefix from items and left them with their core names since reviewers usually don't use it when describing the items.
+
+
+SPUR
+
+
+	
+	Breakfast		['Ranch Breakfast', 'Cheese Griller Breakfast', 'Carb-Conscious Breakfast', 
+					 'Brekkie','Steak Egg & Chips', 'Trailblazer', 'Kickstarter', 'Unreal Breakfast', 'Avo on Toast', 'Toasted Sarmies', 'Tangy Cheese and Tomato Toasted Sandwich', 'Chicken Mayonnaise Toasted Sandwich', 'Bacon, Egg and Cheese Toasted Sandwich', 'Breakfast Top ups' 'Pork Sausages', 'Cheese Griller', 'Mushrooms', 'Viennas', 'Hash Brown']
+
+	Steaks			['Chargrilled Rump', 'New York Sirloin', 'Fillet', 'Prawn Steak', 
+					 'T-Bone', 'Lazy Aged',  'Portuguese Steak', 'Cheesy Garlic Prawn Steak']
+
+	Chicken 		['Starter Buffalo Wings', 'Crispy Golden Brown Chicken Nuggets', 
+					 'Chicken Livers', 'Chicken Strips', 
+					 'Chicken, Avo & Bacon Salad']
+
+	Burgers			['Original Spur Burger', 'Texan-Fried Chicken Burger', 'Cheese Burger', 
+					 'Cheese & Bacon Burger', 'Cheddamelt Burger', 'Cheese, Bacon & Guacamole Burger', 'Goodie Burger', 'Sauce Burger', 'Burger & Coke Combo', 'Crumbed Veggie Burger', 'Beyond Burger', 'Beef Burger', 'Chicken Burger']
+
+	Seafood			['Hake & Chips', 'Calamari Strips & Hake', 'Cheesy Garlic Prawns', 
+					 'Calamari Strips', 'Fish Fingers']
+	
+	Schnitzel Grill ['Half Ranch Chicken', 'Grilled BBQ Chicken Breasts', 'Lamb Chops', 
+					 'Pork Chops', 'Chicken Schnitzel', 'Cheesy Garlic Prawn Schnitzel', 
+					 'Hawaiian Schnitzel', 'Cheddamelt Schnitzel', 'Mixed Chop Platter', 
+					 'Crumbed Chicken Strips', 'Grilled Chicken Strips', 'Grilled Chicken & Salad']
+	
+	Rib Combos		['Spur's Famous Pork Spare Ribs', 'Ribs & Chicken combo', 
+					 'Ribs & Buffalo Wings combo', 'T-Bone & Wings', '200g Riblets']
+
+	Vegetarian		['Greek Salad', 'Fresh Hot Veg', 'Chips', 'Onion Rings', 'Baked Potato', 
+					 'Sweet Potato Fries', 'Veg Friendly Nachos', 'Garnish', 'Crispy Cheesy Garlic Roll',' Starter Nachos Mexicana', 'Bread Rolls', 'Cheesy Quesadilla', 'Butter', 'Strips and Avo Salad']
+
+	Other			['Buttercups Cheese Pizza', 
+					 'Buffalo Braves Chicken & Cheese Pizza', 'Soaring Eagles Pineapple Cheese & Bacon Pizza', 'Home-made Cheesy Macaroni', 'Wacky Viennas', 'Toasted Treats',  'Birthday Combo Meal', 'Crumbed Mushrooms']
+
+	Desserts		['Peppermint Crisp Tart', 'Chocolate Brownie', 'Malva Pudding', 
+					 'Oreo Cheesecake', 'Classic Waffle', 'Bar-One Waffle', 'Ice Cream & Chocolate Sauce', 'Ice Cream & Bar-One Sauce', 'Pecan Nut Sundae Delight', 'Peppermint Crisp Sundae Delight', 'Milkshakes', 'Bar-One Shake', 'Soda Floats', 'Hot Chocolate', 'Bar-One Hot Chocolate', 'Canyon Cups Strawberry Mallow', 'Canyon Cups Caramel Popcorn', 'Canyon Cups Cookies & Fudge', 'Cone on the Go', 'Soft Serve Bowl', 'Spurs Half-a-Waffle', 'Chico the Clown']
+	
+	Sauces			['Peri-Peri', 'Pepper', 'Cheese', 'Garlic', 'Cheesy Garlic', 
+					 'Manhattan Mushroom', 'Basting Sauce']
+
+	Drinks			['Mineral Water', 'Fruit Juice', 'Sodas', 'Sodas Sugar Free']
+
+	Alcohol 		['Amarula Hot Chocolate', 'Dom Pedros', 'Speciality Coffee']
+
+	Specials		['Monday Burger Special', 'Game On', 'Unreal Breakfast Special']
+
+
+
+__________________
+THE HUSSAR GRILL
+
++ Made a 'Beef' and 'Steaks' seperation because 'boerewors cannot be classified as steak but can be classified under beef'
+
++ 'Parmesan Chicken Breasts' and 'Chicken Roulade with Mushroom Sauce' can be potentially placed in Schnitzel Grill but they aren't really Grills nor are they true Schnitzels.
+	
+
+
+	Beef 			['Traditional Boerewors', 'Hussar Beef Biltong', 'Beef and Reef']
+
+	Steaks			['Fillet', 'Rump', 'Sirloin', 'Ribeye', 'Game Steaks', 'Blue Cheese Sirloin', 				   'Fillet Bearnaise', 'Madagascan Pepper Fillet', 'Fillet Moutarde', 							 'Hollandse Biefstuk', 'Chateaubriand', 'Hussar Carpetbagger', 
+					 'The Hussar Steak Roll', 'Steak Tartar', 'T-Bone', 'Fillet on the Bone', 'Sirloin on the Bone']
+
+	Seafood			['Kingklip', 'Mussels', 'Mussel Pot', 'Queen Prawns', 'Patagonian Calamari', 
+					 'Trio of Snails', 'Prawn and Fresh Avocado Cocktail', 'Calamari and Chorizo', 'Salmon']
+
+	Chicken			['Chicken Livers', 'Deboned Half Chicken', 'Parmesan Chicken Breasts', 						 'Chicken Roulade with Mushroom Sauce']
+
+	Vegetarian		['Fried Halloumi', 'Lentil Curry', 'Gnocchi', 'Crispy Onion Rings', 
+					 'Pan-fried Mushrooms', 'Parmesan Truffle Chips', 'Side Salad', 'Patotoes', 'Sauted Green Beans', 'Gratinated Corn', 'Cream Spinach and Cinnamon-infused Butternut', 'Oven-roasted Vegetables', 'Tomato Salad', 'Greek', 'Fresh Greens', 'Italian Tomato Soup', 'Large Black Mushroom', 'Tomato and Onion', 'Caramelised Pear, Blue Cheese and Walnut', 'Fried Crumbed Camembert']
+
+	Lamb 			['Lamb Shank', 'Skilpadjie', 'Grilled Lamb Loin Chops']
+
+
+	Other 			['Chorizo', 'Pork Belly', 'Pork Loin Ribs', - All pork. New Category Maybe?
+					 'Caesar', - would be Vegetarian if Hussar wasn't adding bacon
+					 'Cured Springbok Loin Corpaccio', - game meat
+					 'Marrow Bones', - just roasted marrow bones
+					 'Hollandse Biterballen', - fried meatballs
+					 
+					 'Grilled Ostrich Fillet', - not sure if this should be in Chicken or not
+					 'Hussar Burger' - the only burger in here
+					 ]
+
+	Sauces 			['Bearnaise Sauce', 'Monkeygland Sauce', 'Mushroom Sauce', 
+					 'Smoked Paprika Sauce', 'Madagascan Pepper Sauce', 'Garlic Sauce', 
+					 'Cheddar Cheese Sauce', 'Blue Cheese Sauce', 'Cafe de Paris']
+
+	Desserts		['Baked Cheesecake', 'Crème Brule', 'Chocolate Fondant', 
+					 'Hussar Grill Ice Cream', 'Malva Pudding', 'Vanilla Ice Cream and Decadent Chocolate Sauce']
+
+	
+	Alcohol 		['Ciders, Beers, Wines, Brandy, Cognac, Whiskey, Gin, Vodka, Rum, Mojito',				 	 'Pina Colada', 'Perfect Malfy', 'Mascow Mule', 'Margarita', Dom Pedro', 					 'Speciality Coffee', 'Jameson Irish Coffee']
+	
+	Hot Bev 		['Caffe Latte', 'Cappuccino', 'Espresso', 'Ceylon Tea', 'Rooibos Tea', 
+					 'Decaffeinated Coffee', 'Americano']
+
+	Cold Bev 		['Red Bull', 'BOS Ice Tea', 'Fresh Fruit Juice', 'Soft Drinks', 'Water']
+
+

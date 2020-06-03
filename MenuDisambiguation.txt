@@ -50,31 +50,41 @@ Do major brands for each kind of restaurant
 ________________
 OCEAN BASKET
 
-	Starters		['Crumbed Prawn Tails', 'Lemon Garlic Mussels', 'Firecracker Squid']
+	Starters		['Whitebait and Calamari', 'lemon garlic Mussels', 'Med Sauce Mussels', 'Firecracker Squid', 'Halloumi Cheese', 'Tzatziki or Tarama', 'Olives or Feta', 'Meze Platter'
+]
 
-	Salads			['Village Salad', 'Village Table Salad', 'Med Veg Bowl', 'Seared Salmon Salad']
+	Salads			['Village Salad', 'Village Table Salad', 'Med Veg Bowl', 'Seared Salmon Salad'
+]
 
-	Fish			['Famous Fish and Chips', 'Kingklip', 'Sole', 'Grilled Salmon']
+	Fish			['Whitebait', 'Famous Fish and Chips (200G)', 'Kingclip (200G)', 'Kingclip (300G)', 'Sole (100G)', 'Sole (200G)', 'Grilled Salmon (200G)'
+]
 
-	Prawns			[Prawn Special', 'Prince Prawns', 'Queen Prawns', 'King Prawns']
+	Prawns			['Crumbed Prawn Tails', 'Prawn Special', 'Prince Prawns', 'Queen Prawns', 'King Prawns', 'King Prawn Platter'
+]
 
-	Calamari		[Calamari', 'Calamari 3 Ways', 'Calamari Steak']
+	Calamari		['Calamari', 'Calamari 3 Ways', 'Calamari Steak'
+]
 
 	Sushi			[Crab Stick', 'Cucumber', 'Avocado', 'Prawn', 'Salmon', 'Tuna', 'Prawn', 
 					 'Salmon', 'Salmon', 'Salmon and Avocado', 'Prawn', 'Salmon', 'Tuna', 
 					 'Crab Stick', 'Tempura Rock Shrimp', 'Salmon', 'Salmon Platter', 
 					 'Rising Sun Platter', 'Sushi for 1', 'Sushi for 2']
 
-	Desserts		['Ice Cream with Decadent Sauce', 'Chocolate Lava Cake', 'Toffee Nut Pie']
+	Desserts		['Ice Cream with Decadent Sauce', 'Chocolate Lava Cake', 'Baklava Cheesecake', 
+					 'Baklava', 'Dom Pedro', 'Milkshakes', 'Ice Cream with Decadent Sauce', 
+					 'Ice Cream and Turkish Delight', 'Chocolate Lava Cake', 'Toffee Nut Pie', 
+					 'Kids Baklava', 'Kataifi', 'Choc Crunch', 'Strawberry Citrus', 
+					 'Rose Baklava', 'Yogi Berry']
 
-	Platters		['Bite of the Ocean', 'Solemate Platter', 'Family Platter']
+	Platters		['Platter for 2', 'Solemate Platter', 'Family Platter', 'Full Deck Platter',
+'Bite of the Ocean', 'Platter for 1'
+]
 
 	Sides			[Halloumi Cheese', 'Mussels', 'Calamari', 'Prince Prawns']
 
 	Merge back into main categories
 	Drinks (Kids)	[Items include Main Meals, Drinks, Desserts]
-	Desserts (Kids)	[Ice Cream with Decadent Sauce', 'Ice Cream and Turkish Delight']
-	Treats (Kids)	[Choc Crunch', 'Strawberry Citrus', 'Rose Baklava', 'Yogi Berry']
+
 
 
 _________________

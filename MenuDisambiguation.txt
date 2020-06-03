@@ -60,12 +60,15 @@ OCEAN BASKET
 
 	Calamari		[Calamari', 'Calamari 3 Ways', 'Calamari Steak']
 
-	Sushi			['Maki', 'Nagiri', 'Sashimi']
+	Sushi			[Crab Stick', 'Cucumber', 'Avocado', 'Prawn', 'Salmon', 'Tuna', 'Prawn', 
+					 'Salmon', 'Salmon', 'Salmon and Avocado', 'Prawn', 'Salmon', 'Tuna', 
+					 'Crab Stick', 'Tempura Rock Shrimp', 'Salmon', 'Salmon Platter', 
+					 'Rising Sun Platter', 'Sushi for 1', 'Sushi for 2']
 
 	Desserts		['Ice Cream with Decadent Sauce', 'Chocolate Lava Cake', 'Toffee Nut Pie']
 
 	Platters		['Bite of the Ocean', 'Solemate Platter', 'Family Platter']
-	
+
 	Sides			[Halloumi Cheese', 'Mussels', 'Calamari', 'Prince Prawns']
 
 	Merge back into main categories

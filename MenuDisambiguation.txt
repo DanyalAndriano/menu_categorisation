@@ -50,10 +50,10 @@ Do major brands for each kind of restaurant
 ________________
 OCEAN BASKET
 
-	Starters		['Whitebait and Calamari', 'lemon garlic Mussels', 'Med Sauce Mussels', 'Firecracker Squid', 'Halloumi Cheese', 'Tzatziki or Tarama', 'Olives or Feta', 'Meze Platter'
+	Starters		['Whitebait and Calamari', 'lemon garlic Mussels', 'Med Sauce Mussels', 'Firecracker Squid', 'Halloumi Cheese', 'Olives or Feta'
 ]
 
-	Salads			['Village Salad', 'Village Table Salad', 'Med Veg Bowl', 'Seared Salmon Salad'
+	Salads			['Village Salad', 'Tzatziki or Tarama', 'Village Table Salad', 'Med Veg Bowl', 'Seared Salmon Salad'
 ]
 
 	Fish			['Whitebait', 'Famous Fish and Chips (200G)', 'Kingclip (200G)', 'Kingclip (300G)', 'Sole (100G)', 'Sole (200G)', 'Grilled Salmon (200G)'
@@ -65,10 +65,10 @@ OCEAN BASKET
 	Calamari		['Calamari', 'Calamari 3 Ways', 'Calamari Steak'
 ]
 
-	Sushi			[Crab Stick', 'Cucumber', 'Avocado', 'Prawn', 'Salmon', 'Tuna', 'Prawn', 
-					 'Salmon', 'Salmon', 'Salmon and Avocado', 'Prawn', 'Salmon', 'Tuna', 
-					 'Crab Stick', 'Tempura Rock Shrimp', 'Salmon', 'Salmon Platter', 
-					 'Rising Sun Platter', 'Sushi for 1', 'Sushi for 2']
+	Sushi			['Crab Stick', 'Cucumber', 'Avocado', 'Salmon', 'Tuna', 'Prawn', 
+					 'Salmon and Avocado', 'Prawn', 'Salmon', 'Tuna', 
+					 'Crab Stick', 'Tempura Rock Shrimp', 
+					 'Sushi for 1', 'Sushi for 2']
 
 	Desserts		['Ice Cream with Decadent Sauce', 'Chocolate Lava Cake', 'Baklava Cheesecake', 
 					 'Baklava', 'Dom Pedro', 'Milkshakes', 'Ice Cream with Decadent Sauce', 
@@ -76,8 +76,8 @@ OCEAN BASKET
 					 'Kids Baklava', 'Kataifi', 'Choc Crunch', 'Strawberry Citrus', 
 					 'Rose Baklava', 'Yogi Berry']
 
-	Platters		['Platter for 2', 'Solemate Platter', 'Family Platter', 'Full Deck Platter',
-'Bite of the Ocean', 'Platter for 1'
+	Platters		['Platter for 2', 'Solemate Platter', 'Rising Sun Platter', 'Salmon Platter', 'Family Platter', 'Full Deck Platter',
+'Bite of the Ocean', 'Platter for 1', 'Meze Platter'
 ]
 
 	Sides			[Halloumi Cheese', 'Mussels', 'Calamari', 'Prince Prawns']

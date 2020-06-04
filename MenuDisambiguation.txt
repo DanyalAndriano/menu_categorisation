@@ -45,6 +45,18 @@ Do major brands for each kind of restaurant
 	ex. Spur-Hussar
 	ex. Pannarotis-Debonnairs
 
+_________________
+CAPE TOWN FISH MARKET
+	
+	+ Suggestion: Look at overlap and group into relevant category
+	Starters		['Six Bombs', 'Los Nachos', 'Southern Fried Chicken Strips']
+
+	Split burgers into beef, chicken etc
+	Burgers			['Southern Fried Chicken Breast', 'Chicken Smash']
+	Salads			['Chicken Caesar', 'Spicy Coleslaw', 'Garden Greek']
+	Meals(?)		['Turbo Charged Fries', 'Smashedbrew Fried Onion Rings']
+	Desserts		[Everything in G-Shakes, Freak Shakes and Killer Waffles]
+
 
 
 ________________
@@ -85,18 +97,6 @@ OCEAN BASKET
 	Drinks (Kids)	[Items include Main Meals, Drinks, Desserts]
 
 
-
-_________________
-ROCO MAMAS
-	
-	+ Suggestion: Look at overlap and group into relevant category
-	Starters		['Six Bombs', 'Los Nachos', 'Southern Fried Chicken Strips']
-
-	Split burgers into beef, chicken etc
-	Burgers			['Southern Fried Chicken Breast', 'Chicken Smash']
-	Salads			['Chicken Caesar', 'Spicy Coleslaw', 'Garden Greek']
-	Meals(?)		['Turbo Charged Fries', 'Smashedbrew Fried Onion Rings']
-	Desserts		[Everything in G-Shakes, Freak Shakes and Killer Waffles]
 
 
 __________________
@@ -159,6 +159,21 @@ John Dory's
 
 	Meals (Kids)	[Fish Fingers and Chips', 'Calamari Strips and Chips', 'Prawns and Chips', '1/4 Chicken and Chips', 'Ribs and Chips', 'Chicken Cheese Burger and Chips', 'Hake and Chips', 'Chicken Strips and Chips', 'Cheezy Pizza', 'Better For Your Meal', 'Milkshakes', 'Kids Soda', 'Ceres', 'Ice Cream and Bar-One Sauce', 'Ice Cream and Chocolate Pearls', 'Slush Puppie'
 ]
+
+
+
+_________________
+ROCO MAMAS
+	
+	+ Suggestion: Look at overlap and group into relevant category
+	Starters		['Six Bombs', 'Los Nachos', 'Southern Fried Chicken Strips']
+
+	Split burgers into beef, chicken etc
+	Burgers			['Southern Fried Chicken Breast', 'Chicken Smash']
+	Salads			['Chicken Caesar', 'Spicy Coleslaw', 'Garden Greek']
+	Meals(?)		['Turbo Charged Fries', 'Smashedbrew Fried Onion Rings']
+	Desserts		[Everything in G-Shakes, Freak Shakes and Killer Waffles]
+
 
 
 __________________

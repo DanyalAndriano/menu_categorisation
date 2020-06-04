@@ -48,14 +48,19 @@ Do major brands for each kind of restaurant
 _________________
 CAPE TOWN FISH MARKET
 	
-	+ Suggestion: Look at overlap and group into relevant category
-	Starters		['Six Bombs', 'Los Nachos', 'Southern Fried Chicken Strips']
+	Calamari 		['Oysters', 'Fish Cakes']
 
-	Split burgers into beef, chicken etc
-	Burgers			['Southern Fried Chicken Breast', 'Chicken Smash']
-	Salads			['Chicken Caesar', 'Spicy Coleslaw', 'Garden Greek']
-	Meals(?)		['Turbo Charged Fries', 'Smashedbrew Fried Onion Rings']
-	Desserts		[Everything in G-Shakes, Freak Shakes and Killer Waffles]
+	Vegetarian 		['Greek']
+
+	Calamari 		['Prawn Spring Rolls', 'Fish Goujons', 'Seafood Plank', 'Mussels', 'Calamari', 'Tempura Prawns', 'Robata Baby Squid', 'Cheese and Garlic Bread']
+
+	Calamari 		[]
+
+	Calamari 		[]
+
+	Calamari 		[]
+
+	Calamari 		[]
 
 
 

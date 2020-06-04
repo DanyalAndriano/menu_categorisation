@@ -50,25 +50,25 @@ Do major brands for each kind of restaurant
 ________________
 OCEAN BASKET
 
-	Starters		['Whitebait and Calamari', 'lemon garlic Mussels', 'Med Sauce Mussels', 'Firecracker Squid', 'Halloumi Cheese', 'Olives or Feta'
-]
 
-	Salads			['Village Salad', 'Tzatziki or Tarama', 'Village Table Salad', 'Med Veg Bowl', 'Seared Salmon Salad'
-]
+	Starters		['lemon garlic Mussels', 'Med Sauce Mussels', 
+					 'Firecracker Squid', 'Halloumi Cheese', 'Olives or Feta']
 
-	Fish			['Whitebait', 'Famous Fish and Chips (200G)', 'Kingclip (200G)', 'Kingclip (300G)', 'Sole (100G)', 'Sole (200G)', 'Grilled Salmon (200G)'
-]
+	Salads			['Village Salad', 'Tzatziki or Tarama', 'Village Table Salad', 
+					 'Med Veg Bowl', 'Seared Salmon Salad']
 
-	Prawns			['Crumbed Prawn Tails', 'Prawn Special', 'Prince Prawns', 'Queen Prawns', 'King Prawns', 'King Prawn Platter'
-]
+	Fish			['Whitebait and Calamari', 'Whitebait', 'Famous Fish and Chips (200G)', 
+					 'Kingclip (200G)', 'Kingclip (300G)', 'Sole (100G)', 'Sole (200G)', 
+					 'Grilled Salmon (200G)']
 
-	Calamari		['Calamari', 'Calamari 3 Ways', 'Calamari Steak'
-]
+	Prawns			['Crumbed Prawn Tails', 'Prawn Special', 'Prince Prawns', 'Queen Prawns', 
+					 'King Prawns', 'King Prawn Platter']
+
+	Calamari		['Calamari', 'Calamari 3 Ways', 'Calamari Steak']
 
 	Sushi			['Crab Stick', 'Cucumber', 'Avocado', 'Salmon', 'Tuna', 'Prawn', 
-					 'Salmon and Avocado', 'Prawn', 'Salmon', 'Tuna', 
-					 'Crab Stick', 'Tempura Rock Shrimp', 
-					 'Sushi for 1', 'Sushi for 2']
+					 'Salmon and Avocado', 'Prawn', 'Salmon', 'Tuna', 'Crab Stick', 
+					 'Tempura Rock Shrimp', 'Sushi for 1', 'Sushi for 2']
 
 	Desserts		['Ice Cream with Decadent Sauce', 'Chocolate Lava Cake', 'Baklava Cheesecake', 
 					 'Baklava', 'Dom Pedro', 'Milkshakes', 'Ice Cream with Decadent Sauce', 
@@ -76,11 +76,10 @@ OCEAN BASKET
 					 'Kids Baklava', 'Kataifi', 'Choc Crunch', 'Strawberry Citrus', 
 					 'Rose Baklava', 'Yogi Berry']
 
-	Platters		['Platter for 2', 'Solemate Platter', 'Rising Sun Platter', 'Salmon Platter', 'Family Platter', 'Full Deck Platter',
-'Bite of the Ocean', 'Platter for 1', 'Meze Platter'
-]
+	Platters		['Platter for 2', 'Solemate Platter', 'Rising Sun Platter', 'Salmon Platter', 
+					 'Family Platter', 'Full Deck Platter', 'Bite of the Ocean', 'Platter for 1', 'Meze Platter']
 
-	Sides			[Halloumi Cheese', 'Mussels', 'Calamari', 'Prince Prawns']
+	Sides			['Halloumi Cheese', 'Mussels']
 
 	Merge back into main categories
 	Drinks (Kids)	[Items include Main Meals, Drinks, Desserts]
@@ -103,48 +102,67 @@ ROCO MAMAS
 __________________
 John Dory's
 
-	+ Dissemble and throw into broad categories
-	Starters		[Calamari Tubes', 'Mussel Bowl', 'Cheesy Garlic Roll', 'Fresh Oysters']
 
-	+ Suggestion: break down and place into broader category
-	Salads			[Greek Salad', 'Cajun Chicken Salad']
 
-	+ Split to more broader categories
-	Light Meals		[Prawn Tacos', 'Chicken Tacos', 'Fish Tacos', 'Salmon Bowl', 'Chicken Bowl']
-	Fish			[Hake & Chips', 'Sole', 'Kingklip', 'Hake Thermidor', 'Calamari Tubes']
-	Prawns			[Queen Prawns', 'King Prawns']
-	Platters		[Sunset Platter', 'Coastal Platter', 'Johns Platter', 'Captains Platter']
+	Starters		['Mussel Bowl', 'Cheesy Garlic Roll', 'Fresh Oysters', 'Cheesy Jalapeno Poppers', 'Clam Chowder', 'Flame-Grilled Bacon Wrapped Poppers', '
+]
 
-	+ QUESTION: Split or Not
-	Combos			[Hake & Calamari Tubes', 'Sole & Prawn', 'Hake & Prawns']
 
-	+ Split to broader categories
-	Grills			[Tender Cut Steak', 'Portuguese Steak', 'Tempura Chicken Schnitzel', 'Ribs']
-	Sushi			[Prawn Volcano', 'Dragon Roll', 'Tuna Crunch Roll', 'Executive Rainbow Roll']
+	Salads			['Greek Salad'
+]
 
-	+ Remove items and throw to relevant categories
-	Sides			[Side Salad', 'Chips', 'Savoury Rice', 'Calamari Strips', 'Coleslaw']
-	Desserts		[Brownie', 'Peppermint Tart', 'Mini Doughnuts', 'Ice Cream & Bar-One Sauce' 'Milkybar & Jelly Tots', 'Kikkat', 'Salted Caramel', 'Shakes']
-	Drinks			[Regular Soda', 'Large Soda', 'Powerplay', 'Sugar Free Soda']
 
-	+ send to main categories
-	Meals (Kids)	[Fish Fingers and Chips', 'Calamari Strips and Chips', 'Prawns and Chips']
-	Drinks (Kids)	['Slush Puppie', 'Ceres', 'Kids Soda']
-	Desserts (kids)	['Ice Cream and Chocolate Pearls', 'Ice Cream and Bar-One Sauce']
+	Chicken		['Chicken Tacos', 'Chicken Bowl', 'Cajun Chicken Salad', 'Buffalo Wings'
+]
+
+	Fish			['Hake & Chips', 'Sole', 'Kingklip', 'Hake Thermidor', 'Calamari Tubes', 'Kingklip Fishwich', 'Fish Cakes', 'Fish Tacos', 'Salmon Bowl'
+]
+
+	Calamari 		['Calamari Tubes']
+
+	Prawns			['Prawn Tacos', 'Queen Prawns', 'Prawn & Chorizo Mac & Cheese', 'King Prawns', 'Cheesy Prawn Tails', 'Prawn and Bacon Pops']
+
+	Platters		['Sunset Platter', 'Coastal Platter', 'Johns Platter', 'Captains Platter', 'Island Platter', 'Wave Platter', 'Lovers Platter'
+]
+
+
+	Combos			['Hake & Calamari Tubes', 'Calamari Tubes & Prawns', '1/4 Chicken & Ribs', 'Sole & Prawn', 'Sole & Calamari Strips', 'Double Hake & Calamari Strips', 'Hake & Prawns'
+]
+
+
+	Grills			['Tender Cut Steak', 'Portuguese Steak', 'Surf & Turf', 'Steak Thermidor', 'Smokey Juicy Steak', 'Steak Roll', 'Steak & Scampi  Prawn', 'Steak & Roll', 'Peri-Peri Chicken', 'Peri-Peri Chicken Double', 'Chargrilled Chicken Breasts', 'Chipotle Chicken Burger', 'Tempura Chicken Schnitzel', 'Ribs'
+]
+	Sushi			['Prawn Volcano', 'Dragon Roll', 'Tuna Crunch Roll', 'Executive Rainbow Roll', 
+					 'Salmon Sashimi', 'Sole Platter', 'Tuna Sashimi', 'Seared Salad', 
+					 'Prawn Salad', 'Poke Salmon', 'Poke Tuna', 'Two Oceans Platter', 
+					 'Rainbow Warrior Platter', 'Bean Curd', 'maritime Platter', 
+					 'California Rolls', 'Sandwiches', 'Hake Nuggets', 'Maki', 'Salmon Roses', 
+					 'Hand Roll', 'Vegetarian Futomaki', 'The Bomb', 'Prawn Tempura', 
+					 'Rainbow Rolls', 'Cucumber Rolls', 'Prawn Avalanche', 
+					 'Prawn & Cheese Spring Rolls', 'Strawberry & Cream Pudding', 'Rose Parcels', 'Vegetarian Rainbow Roll', 'Tuna-Salmon Trio', 'Samurai Salmon Rolls', 
+					 'Tuna Roses', 'Deep Fried Futomaki', 'Nigiri', 'Prawn Surprise', 
+					 'Valentine Roll', 'Tempura Rainbow Rolls', 'Smoked Cali Rolls', 
+					 'C & C Bombs', 'Snow  Crab Rolls', 'Prawn Reload', 'Caterpillar Roll'
+]
+
+
+	Sides			['Side Salad', 'Chips', 'Savoury Rice', 'Calamari Strips', 'Coleslaw', 
+					 'John Dorys Prawns', 'Tempura Onion Rings', 'Seasonal Veg', 'Portuguese Roll'
+]
+	Desserts		['Brownie', 'Peppermint Tart', 'Mini Doughnuts', 'Ice Cream & Bar-One Sauce', 
+					 'JD Style Tiramisu', 'Milkybar & Jelly Tots', 'Kikkat', 'Salted Caramel', 'Shakes'
+
+]
+	Drinks			['Regular Soda', 'Large Soda', 'Powerplay', 'Sugar Free Soda', 'Lipton Ice Tea Cans', 'Valpre Water', 'Liqui Fruit', 'Tisers', 'Cordial', 'Milkshakes', 'Fresh Fruit Juice', 'Coffee', 'Decaf', 'Cappucino', 'Espresso', 'Caffe Latter', 'Tea', 'Milo', 'Hot Chocolate', 'Milkybar and Jelly Tots', 'Salted Caramel', 'Dom Pedro', 'Irish Coffee'
+]
+
+
+	Meals (Kids)	[Fish Fingers and Chips', 'Calamari Strips and Chips', 'Prawns and Chips', '1/4 Chicken and Chips', 'Ribs and Chips', 'Chicken Cheese Burger and Chips', 'Hake and Chips', 'Chicken Strips and Chips', 'Cheezy Pizza', 'Better For Your Meal', 'Milkshakes', 'Kids Soda', 'Ceres', 'Ice Cream and Bar-One Sauce', 'Ice Cream and Chocolate Pearls', 'Slush Puppie'
+]
 
 
 __________________
-
-
-+ The 'Other' category has items that need suggestions for where they can be categorised. I'm not finding enough info from Spur's menu to suggest if some are vegan or not...for instance 'Crumbed Mushrooms' - traditionally they are unless they are fried in animal fat or oil that had previously fried meats
-
-+ Keep 'Breakfast' category as there's a lot of items in it
-
-+ Removed 'Kids' prefix from items and left them with their core names since reviewers usually don't use it when describing the items.
-
-
 SPUR
-
 
 	
 	Breakfast		['Ranch Breakfast', 'Cheese Griller Breakfast', 'Carb-Conscious Breakfast', 
@@ -193,11 +211,6 @@ SPUR
 
 __________________
 THE HUSSAR GRILL
-
-+ Made a 'Beef' and 'Steaks' seperation because 'boerewors cannot be classified as steak but can be classified under beef'
-
-+ 'Parmesan Chicken Breasts' and 'Chicken Roulade with Mushroom Sauce' can be potentially placed in Schnitzel Grill but they aren't really Grills nor are they true Schnitzels.
-	
 
 
 	Beef 			['Traditional Boerewors', 'Hussar Beef Biltong', 'Beef and Reef']

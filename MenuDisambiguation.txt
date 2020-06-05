@@ -28,7 +28,7 @@ NB: The (+) Sign Means It Is A Suggestion/Question/Action Taken
 
 
 -------------------------------------------------------
-				CAPE TOWN FISH MARKET
+CAPE TOWN FISH MARKET
 -------------------------------------------------------
 + Added 'Platters' and 'Combos' into a single category
 + Items I'm unsure about are in the 'Other' category. They are basically a cross between two or more categories. I could simply look at them in a generalised way and put them into categories they would fit better in generally. For instance, 'CTFM Burger' could be placed in the 'Meat' category ()
@@ -86,7 +86,7 @@ NB: The (+) Sign Means It Is A Suggestion/Question/Action Taken
 
 
 -------------------------------------------------------
-				OCEAN BASKET 				
+OCEAN BASKET 				
 -------------------------------------------------------
 + Some Sushi items were placed in 'Platters' category because they are sushi platters (we can always revert back to the way they were group before)
 
@@ -126,7 +126,7 @@ NB: The (+) Sign Means It Is A Suggestion/Question/Action Taken
 
 
 -------------------------------------------------------
-				JOHN DORY's 				
+JOHN DORY's 				
 -------------------------------------------------------
 + 'Other' contains items that need categorisation
 + 'Better For Your Meal' is a chicken burger so I placed it in 'Chicken'
@@ -202,7 +202,7 @@ NB: The (+) Sign Means It Is A Suggestion/Question/Action Taken
 
 
 -------------------------------------------------------
-				ROCO 				
+ROCO MAMAS			
 -------------------------------------------------------	
 + Their menu does not specify clearly what some items are . So It is harder to classify the items into categories especially those with ambiguous names such as 'Rocket'.
 	
@@ -238,7 +238,7 @@ NB: The (+) Sign Means It Is A Suggestion/Question/Action Taken
 
 
 -------------------------------------------------------
-				SPUR 				
+SPUR 				
 -------------------------------------------------------
 + The 'Other' category has items that need suggestions for where they can be categorised. I'm not finding enough info from Spur's menu to suggest if some are vegan or not...for instance 'Crumbed Mushrooms' - traditionally they are unless they are fried in animal fat or oil that had previously fried meats
 
@@ -294,7 +294,7 @@ NB: The (+) Sign Means It Is A Suggestion/Question/Action Taken
 
 
 -------------------------------------------------------
-				THE HUSSAR GRILL 				
+THE HUSSAR GRILL 				
 -------------------------------------------------------
 + Made a 'Beef' and 'Steaks' separation because 'Boerewors' cannot be classified as 'Steak' but can be classified under 'Beef'
 

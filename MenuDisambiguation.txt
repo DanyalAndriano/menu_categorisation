@@ -35,16 +35,20 @@ CAPE TOWN FISH MARKET
 	
 
 	Vegetarian 		['Greek', 'Rice Paper Rolls', 'Seafood Noodles', 
-					 'Green Salad', 'Mash', 'Chips', 'Onion Rings', 'Savoury Rice', 'Cheese and Garlic Bread']
+					 'Green Salad', 'Mash', 'Chips', 'Onion Rings', 
+					 'Savoury Rice', 'Cheese and Garlic Bread']
 
 	Other 			['Seafood Plank', 'Mussels', 'Calamari', 'Robata Baby Squid', 
 					 'Ebi Bites', 'Crabstick', 'CTFM Burger']
 
 	Fish 			['Seared Tuna', 'Smoked Salmon Trout', 'Fish Cakes', 
-					 'Kataifi Bites', 'Fish Goujons', 'Fish Curry', 'Fish & Chips', 'Potjie' 'Prawn Curry', 'Teriyaki Salmon', 'Kingklip', 'Sole', 'Classic Poke', 'Crayfish']
+					 'Kataifi Bites', 'Fish Goujons', 'Fish Curry', 
+					 'Fish & Chips', 'Potjie' 'Prawn Curry', 'Teriyaki Salmon', 
+					 'Kingklip', 'Sole', 'Classic Poke', 'Crayfish']
 
 	Prawns 			['Tempura Prawns', 'Prawn Tacos', 'Prawn Popcorn', 
-				 	 'Prawn Spring Rolls', 'Prawn Croquettes', 'Grilled Prawns', 'Calamari Strips']
+				 	 'Prawn Spring Rolls', 'Prawn Croquettes', 'Grilled Prawns', 
+				 	 'Calamari Strips']
 
 	Sushi 			['Salmon Roses','Teriyaki Salmon', 'Tuna Roses', 
 					 'Seared Tuna Roses', 'Tuna Carpaccio', 'Sashimi', 
@@ -56,7 +60,9 @@ CAPE TOWN FISH MARKET
 					 'Sandy Bay', 'St Helena Bay', 'Walvis Bay', 'Betty's Bay',]
 
 	Platters 		['Fish Hoek Platter', 'False Bay Platter', 'Kalk Bay Platter', 
-					 'Hout Bay Platter', 'Executive Platter', 'Hake & Calamari', 'Sole & Calamari', 'Surf & Turf', 'Prawn & Calamari', 'Executive Surf & Turf']
+					 'Hout Bay Platter', 'Executive Platter', 'Hake & Calamari', 
+					 'Sole & Calamari', 'Surf & Turf', 'Prawn & Calamari', 
+					 'Executive Surf & Turf']
 
 	Meat 			['Sirloin Steak', 'T-bone Steak', 'Lamb Croquettes', 
 					 'Beef Ribs']
@@ -72,13 +78,30 @@ CAPE TOWN FISH MARKET
 					 'Cookies & Cream', 'Choc Nut Sundae']
 
 	Cold Bev 		['Coca-Cola', 'Sprite', 'Creme Soda', 'Fanta', 'Fuze Ice Tea', 
-					 'Stoney', 'Cranberry Juice', 'Orange Juice', 'Pineapple Juice', 'Caramel Pop', 'Appletiser', 'Grapetiser']
+					 'Stoney', 'Cranberry Juice', 'Orange Juice', 
+					 'Pineapple Juice', 'Caramel Pop', 'Appletiser', 'Grapetiser']
 
 	Hot Bev 		['Americano', 'Espresso', 'Double Espresso', 'Cafe Latte', 
-					 'Cafe Mocha', 'Hot CHocolate', 'Lipton Ceylon', 'Rooibos', 'Coffee']
+					 'Cafe Mocha', 'Hot CHocolate', 'Lipton Ceylon', 'Rooibos', 
+					 'Coffee']
 
 	Alcohol 		['Bombay Sapphire', 'Star of Bombay', 'Gin & Tonic', 
-					 'Mango Gin', 'Cucumber & Rosemary Gin', 'Rose & Grapefruit Gin', 'Long Island', 'Mai Tai', 'Berry Baller', 'Passion Baller', 'Margarita', 'Mojito', 'Oakheart Spicy Mojito', 'Mascow Mule', 'Mexican Mule', 'Watermelon Margarita', 'Strawberry Daiquiri', 'Virgin Classic', 'Virgin Strawberry', 'Granadilla Blast', 'Pina Colada', 'Grey Goose Martini', 'red Bull Spitzer', 'Jagerbomb', 'Cosmopolitan', 'Bombay Martini', 'Chardonnay', 'Sauvignon Blanc', 'Pinotage', 'Champagne', 'Sparkling Wine', 'Prosecco Cocktail', 'Chenin Blanc', 'Riesling', 'Carbenet Sauvignon', 'Shiraz', 'Sweet Rose', 'Merlot', 'Pinot Noir', 'Castle', 'Castle Lite', 'Black Label', 'Stella Artois', 'Corona', 'Budweiser', 'Flying Fish', 'Hunters Dry', 'Hunters Gold', 'Hunters Light', 'Savanna', 'Cognac', 'Aperitif', 'Tequila', 'Rum', 'Whisky', 'Vodka', 'Brandy', 'Dom Pedro', 'Irish Coffee', 'Kahlua']
+					 'Mango Gin', 'Cucumber & Rosemary Gin', 
+					 'Rose & Grapefruit Gin', 'Long Island', 'Mai Tai', 
+					 'Berry Baller', 'Passion Baller', 'Margarita', 'Mojito', 
+					 'Oakheart Spicy Mojito', 'Mascow Mule', 'Mexican Mule', 
+					 'Watermelon Margarita', 'Strawberry Daiquiri', 
+					 'Virgin Classic', 'Virgin Strawberry', 'Granadilla Blast', 
+					 'Pina Colada', 'Grey Goose Martini', 'red Bull Spitzer', 
+					 'Jagerbomb', 'Cosmopolitan', 'Bombay Martini', 'Chardonnay', 
+					 'Sauvignon Blanc', 'Pinotage', 'Champagne', 'Sparkling Wine', 
+					 'Prosecco Cocktail', 'Chenin Blanc', 'Riesling', 
+					 'Carbenet Sauvignon', 'Shiraz', 'Sweet Rose', 'Merlot', 
+					 'Pinot Noir', 'Castle', 'Castle Lite', 'Black Label', 
+					 'Stella Artois', 'Corona', 'Budweiser', 'Flying Fish', 
+					 'Hunters Dry', 'Hunters Gold', 'Hunters Light', 'Savanna', 
+					 'Cognac', 'Aperitif', 'Tequila', 'Rum', 'Whisky', 'Vodka', 
+					 'Brandy', 'Dom Pedro', 'Irish Coffee', 'Kahlua']
 
 
 
@@ -95,7 +118,8 @@ OCEAN BASKET
 	Starters		['Halloumi Cheese', 'Tzatziki or Tarama', 'Olives or Feta']
 
 	Salads			['Village Salad', 'Village Table Salad', 
-					 'Med Veg Bowl', 'Seared Salmon Salad', 'Lemon Garlic Mussels',''Mussels, 'Med Sauce Mussels', 
+					 'Med Veg Bowl', 'Seared Salmon Salad', 
+					 'Lemon Garlic Mussels',''Mussels, 'Med Sauce Mussels', 
 					 'Firecracker Squid', ]
 
 	Fish			['Whitebait and Calamari', 'Whitebait', 
@@ -107,16 +131,26 @@ OCEAN BASKET
 	Calamari		['Calamari', 'Calamari 3 Ways', 'Calamari Steak']
 
 	Sushi			['Crabstick', 'Salmon and Avocado', 'Prawn', 'Salmon', 'Tuna', 
-					 'Crab Stick', 'Tempura Rock Shrimp', 'Sushi for 1', 'Sushi for 2', 'Maki', 'Nigiri', 'Gunkans', 'Flower Gunkans', 'Futomaki', 'California Rolls', 'Rainbow Rolls', 'Sashimi']
+					 'Crab Stick', 'Tempura Rock Shrimp', 'Sushi for 1', 
+					 'Sushi for 2', 'Maki', 'Nigiri', 'Gunkans', 'Flower Gunkans', 
+					 'Futomaki', 'California Rolls', 'Rainbow Rolls', 'Sashimi']
 
 	Desserts		['Ice Cream with Decadent Sauce', 'Chocolate Lava Cake', 
-					 'Baklava Cheesecake', 'Baklava', 'Dom Pedro', 'Milkshakes', 'Ice Cream with Decadent Sauce', 
-					 'Ice Cream and Turkish Delight', 'Chocolate Lava Cake', 'Toffee Nut Pie', 
-					 'Kids Baklava', 'Kataifi', 'Choc Crunch', 'Strawberry Citrus', 
+					 'Baklava Cheesecake', 'Baklava', 'Dom Pedro', 'Milkshakes', 
+					 'Ice Cream with Decadent Sauce', 
+					 'Ice Cream and Turkish Delight', 'Chocolate Lava Cake', 
+					 'Toffee Nut Pie', 
+					 'Kids Baklava', 'Kataifi', 'Choc Crunch', 
+					 'Strawberry Citrus', 
 					 'Rose Baklava', 'Yogi Berry']
 
 	Platters		['Platter for 2', 'Solemate Platter', 'Rising Sun Platter', 
-					 'Salmon Platter', 'Family Platter', 'Full Deck Platter', 'Bite of the Ocean', 'Platter for 1', 'Meze Platter', 'Fish & Calamari', 'Calamari & Kingklip', 'Prawns & Mussels', 'Prawns & Calamari', 'Prawns & Fish', 'Prawns & Kingklip', 'Fusion Crunch Platter', 'Two Way Platter', 'Chans Platter', 'Bonsai Platter']
+					 'Salmon Platter', 'Family Platter', 'Full Deck Platter', 
+					 'Bite of the Ocean', 'Platter for 1', 'Meze Platter', 
+					 'Fish & Calamari', 'Calamari & Kingklip', 'Prawns & Mussels', 
+					 'Prawns & Calamari', 'Prawns & Fish', 'Prawns & Kingklip', 
+					 'Fusion Crunch Platter', 'Two Way Platter', 'Chans Platter', 
+					 'Bonsai Platter']
 
 	
 
@@ -133,26 +167,32 @@ JOHN DORY's
 
 
 	Other			['Mussel Bowl', 'Fresh Oysters', 
-					 'Cheesy Jalapeno Poppers', 'Clam Chowder', 'Flame-Grilled Bacon Wrapped Poppers', 'Cheezy Pizza']
+					 'Cheesy Jalapeno Poppers', 'Clam Chowder', 
+					 'Flame-Grilled Bacon Wrapped Poppers', 'Cheezy Pizza']
 
 
 	Chicken			['Chicken Tacos', 'Chicken Bowl', 'Cajun Chicken Salad', 
 					 'Buffalo Wings', 'Better For Your Meal']
 
 	Fish			['Hake & Chips', 'Sole', 'Kingklip', 'Hake Thermidor', 
-					 'Calamari Tubes', 'Kingklip Fishwich', 'Fish Cakes', 'Fish Tacos', 'Salmon Bowl']
+					 'Calamari Tubes', 'Kingklip Fishwich', 'Fish Cakes', 
+					 'Fish Tacos', 'Salmon Bowl']
 
 	Calamari 		['Calamari Tubes']
 
 	Prawns			['Prawn Tacos', 'Queen Prawns', 
-					 'Prawn & Chorizo Mac & Cheese', 'King Prawns', 'Cheesy Prawn Tails', 'Prawn and Bacon Pops']
+					 'Prawn & Chorizo Mac & Cheese', 'King Prawns', 
+					 'Cheesy Prawn Tails', 'Prawn and Bacon Pops']
 
 	Platters		['Sunset Platter', 'Coastal Platter', 'Johns Platter', 
-					 'Captains Platter', 'Island Platter', 'Wave Platter', 'Lovers Platter']
+					 'Captains Platter', 'Island Platter', 'Wave Platter', 
+					 'Lovers Platter']
 
 
 	Combos			['Hake & Calamari Tubes', 'Calamari Tubes & Prawns', 
-					 '1/4 Chicken & Ribs', 'Sole & Prawn', 'Sole & Calamari Strips', 'Double Hake & Calamari Strips', 'Hake & Prawns', 
+					 '1/4 Chicken & Ribs', 'Sole & Prawn', 
+					 'Sole & Calamari Strips', 'Double Hake & Calamari Strips', 
+					 'Hake & Prawns', 
 					 'Fish Fingers and Chips', 
 					 'Calamari Strips and Chips',
 					 'Prawns and Chips', 
@@ -164,35 +204,55 @@ JOHN DORY's
 
 
 	Grills			['Tender Cut Steak', 'Portuguese Steak', 'Surf & Turf', 
-					 'Steak Thermidor', 'Smokey Juicy Steak', 'Steak Roll', 'Steak & Scampi  Prawn', 'Steak & Roll', 'Peri-Peri Chicken', 'Peri-Peri Chicken Double', 'Chargrilled Chicken Breasts', 'Chipotle Chicken Burger', 'Tempura Chicken Schnitzel', 'Ribs']
+					 'Steak Thermidor', 'Smokey Juicy Steak', 'Steak Roll', 
+					 'Steak & Scampi  Prawn', 'Steak & Roll', 'Peri-Peri Chicken', 
+					 'Peri-Peri Chicken Double', 'Chargrilled Chicken Breasts', 
+					 'Chipotle Chicken Burger', 'Tempura Chicken Schnitzel', 
+					 'Ribs']
 
 	Sushi			['Prawn Volcano', 'Dragon Roll', 'Tuna Crunch Roll', 
 					 'Executive Rainbow Roll', 
-					 'Salmon Sashimi', 'Sole Platter', 'Tuna Sashimi', 'Seared Salad', 
-					 'Prawn Salad', 'Poke Salmon', 'Poke Tuna', 'Two Oceans Platter', 
+					 'Salmon Sashimi', 'Sole Platter', 'Tuna Sashimi', 
+					 'Seared Salad', 
+					 'Prawn Salad', 'Poke Salmon', 'Poke Tuna', 
+					 'Two Oceans Platter', 
 					 'Rainbow Warrior Platter', 'Bean Curd', 'maritime Platter', 
-					 'California Rolls', 'Sandwiches', 'Hake Nuggets', 'Maki', 'Salmon Roses', 
-					 'Hand Roll', 'Vegetarian Futomaki', 'The Bomb', 'Prawn Tempura', 
+					 'California Rolls', 'Sandwiches', 'Hake Nuggets', 'Maki', 
+					 'Salmon Roses', 
+					 'Hand Roll', 'Vegetarian Futomaki', 'The Bomb', 
+					 'Prawn Tempura', 
 					 'Rainbow Rolls', 'Cucumber Rolls', 'Prawn Avalanche', 
-					 'Prawn & Cheese Spring Rolls', 'Strawberry & Cream Pudding', 'Rose Parcels', 'Vegetarian Rainbow Roll', 'Tuna-Salmon Trio', 'Samurai Salmon Rolls', 
-					 'Tuna Roses', 'Deep Fried Futomaki', 'Nigiri', 'Prawn Surprise', 
-					 'Valentine Roll', 'Tempura Rainbow Rolls', 'Smoked Cali Rolls', 
-					 'C & C Bombs', 'Snow  Crab Rolls', 'Prawn Reload', 'Caterpillar Roll']
+					 'Prawn & Cheese Spring Rolls', 'Strawberry & Cream Pudding', 
+					 'Rose Parcels', 'Vegetarian Rainbow Roll', 
+					 'Tuna-Salmon Trio', 'Samurai Salmon Rolls', 
+					 'Tuna Roses', 'Deep Fried Futomaki', 'Nigiri', 
+					 'Prawn Surprise', 
+					 'Valentine Roll', 'Tempura Rainbow Rolls', 
+					 'Smoked Cali Rolls', 
+					 'C & C Bombs', 'Snow  Crab Rolls', 'Prawn Reload', 
+					 'Caterpillar Roll']
 
 
 	Vegetarian		['Side Salad', 'Chips', 'Savoury Rice', 'Calamari Strips', 
-					 'Coleslaw', 'John Dorys Prawns', 'Tempura Onion Rings', 'Seasonal Veg', 'Cheesy Garlic Roll', 'Portuguese Roll', 'Greek Salad']
+					 'Coleslaw', 'John Dorys Prawns', 'Tempura Onion Rings', 
+					 'Seasonal Veg', 'Cheesy Garlic Roll', 'Portuguese Roll', 
+					 'Greek Salad']
 
 	Desserts		['Brownie', 'Peppermint Tart', 'Mini Doughnuts', 
-					 'Ice Cream & Bar-One Sauce', 'JD Style Tiramisu', 'Milkybar & Jelly Tots', 'Kikkat', 'Milkshakes', 'Salted Caramel', 'Milkybar and Jelly Tots', 'Salted Caramel', 'Shakes',
+					 'Ice Cream & Bar-One Sauce', 'JD Style Tiramisu', 
+					 'Milkybar & Jelly Tots', 'Kikkat', 'Milkshakes', 
+					 'Salted Caramel', 'Milkybar and Jelly Tots', 
+					 'Salted Caramel', 'Shakes',
 					 'Ice Cream and Bar-One Sauce', 
 					 'Ice Cream and Chocolate Pearls', 
 					 'Slush Puppie']
 
 	Cold Bev 		['Regular Soda', 'Large Soda', 'Powerplay', 'Sugar Free Soda', 
-					'Lipton Ice Tea Cans', 'Valpre Water', 'Liqui Fruit', 'Tisers','Fresh Fruit Juice',  'Ceres', 'Cordial']
+					'Lipton Ice Tea Cans', 'Valpre Water', 'Liqui Fruit', 
+					'Tisers','Fresh Fruit Juice',  'Ceres', 'Cordial']
 
-	Hot Bev 		['Coffee', 'Decaf', 'Cappucino', 'Espresso', 'Caffe Latter', 'Tea', 'Milo', 'Hot Chocolate', ]
+	Hot Bev 		['Coffee', 'Decaf', 'Cappucino', 'Espresso', 'Caffe Latter', 
+					 'Tea', 'Milo', 'Hot Chocolate', ]
 
 	Alcohol			['Dom Pedro', 'Irish Coffee']
 
@@ -213,7 +273,11 @@ ROCO MAMAS
 
  	Other 			['Rocket']
 	Add-ons 		['Egg', 'Bacon', 'American Cheese', 'Aged Cheddar', 
-					 'Swiss Cheese', 'Mozzarella', 'Feta', 'Guacamole', 'Mushrooms', 'Jalapenos', 'Caramelised Onions', 'Fresh Chilli', 'Sweet Pickles', 'Turbo Charged Fries', 'Los Nachos', 'Six Bombs', 'Smashbrew Fried Onion Rings', 'Nachos Crumbs']	
+					 'Swiss Cheese', 'Mozzarella', 'Feta', 'Guacamole', 
+					 'Mushrooms', 'Jalapenos', 'Caramelised Onions', 
+					 'Fresh Chilli', 'Sweet Pickles', 'Turbo Charged Fries', 
+					 'Los Nachos', 'Six Bombs', 'Smashbrew Fried Onion Rings', 
+					 'Nachos Crumbs']	
 
 	Chicken Burgers	['South Star', 'Chicken Smash']
 
@@ -221,14 +285,18 @@ ROCO MAMAS
 					 'Southern Fried Chicken Breast']
 
 	Beef Burgers 	['Chilli Cheese Bomb', 'Classic Cheese', 'Old Skool', 
-					 'Rock Star', 'Cheese & Bacon', 'The Slacker', 'Mushroom Swizz', 'The Shackster', 'Bacon Cheese Guac',  'Beef Smash','Burger Only']
+					 'Rock Star', 'Cheese & Bacon', 'The Slacker', 
+					 'Mushroom Swizz', 'The Shackster', 'Bacon Cheese Guac', 
+					 'Beef Smash','Burger Only']
 
 	Salads			['Salsa', 'Chicken Caesar', 'Spicy Coleslaw', 'Garden Greek']
 
 
 
 	Desserts		[Slow Death By Chocolate', 'Candylicious', 'Surprise Me!', 
-					 'Bubblegum', 'Strawberry', 'Blueberry', 'Belgian Chocolate Espresso', 'Oreo', 'Peanut Butter Toffee', 'Waffles', 'Classic', 'Cookies & Cream', 'Nutella & Banana']
+					 'Bubblegum', 'Strawberry', 'Blueberry', 
+					 'Belgian Chocolate Espresso', 'Oreo', 'Peanut Butter Toffee', 
+					 'Waffles', 'Classic', 'Cookies & Cream', 'Nutella & Banana']
 
  	Sauces 			['Old Skool BBQ Sauce', 'Blue Cheese Dressing', 'Rocoma Yo', 
  					'Smoked Mayo', 'Chilli Mayo', 'Cheese Sauce', 'Mofo Mayo']
@@ -247,38 +315,66 @@ SPUR
 
 	
 	Breakfast		['Ranch Breakfast', 'Cheese Griller Breakfast', 
-					 'Carb-Conscious Breakfast', 'Brekkie','Steak Egg & Chips', 'Trailblazer', 'Kickstarter', 'Unreal Breakfast', 'Avo on Toast', 'Toasted Sarmies', 'Tangy Cheese and Tomato Toasted Sandwich', 'Chicken Mayonnaise Toasted Sandwich', 'Bacon, Egg and Cheese Toasted Sandwich', 'Breakfast Top ups' 'Pork Sausages', 'Cheese Griller', 'Mushrooms', 'Viennas', 'Hash Brown']
+					 'Carb-Conscious Breakfast', 'Brekkie','Steak Egg & Chips', 
+					 'Trailblazer', 'Kickstarter', 'Unreal Breakfast', 
+					 'Avo on Toast', 'Toasted Sarmies', 
+					 'Tangy Cheese and Tomato Toasted Sandwich', 
+					 'Chicken Mayonnaise Toasted Sandwich', 
+					 'Bacon, Egg and Cheese Toasted Sandwich', 'Breakfast Top ups' 
+					 'Pork Sausages', 'Cheese Griller', 'Mushrooms', 'Viennas', 
+					 'Hash Brown']
 
 	Steaks			['Chargrilled Rump', 'New York Sirloin', 'Fillet', 
-					 'Prawn Steak', 'T-Bone', 'Lazy Aged',  'Portuguese Steak', 'Cheesy Garlic Prawn Steak']
+					 'Prawn Steak', 'T-Bone', 'Lazy Aged',  'Portuguese Steak', 
+					 'Cheesy Garlic Prawn Steak']
 
-	Chicken 		['Starter Buffalo Wings', 'Crispy Golden Brown Chicken Nuggets', 
-					 'Chicken Livers', 'Chicken Strips', 
-					 'Chicken, Avo & Bacon Salad']
+	Chicken 		['Starter Buffalo Wings', 
+					 'Crispy Golden Brown Chicken Nuggets', 'Chicken Livers', 
+					 'Chicken Strips', 'Chicken, Avo & Bacon Salad']
 
-	Burgers			['Original Spur Burger', 'Texan-Fried Chicken Burger', 'Cheese Burger', 
-					 'Cheese & Bacon Burger', 'Cheddamelt Burger', 'Cheese, Bacon & Guacamole Burger', 'Goodie Burger', 'Sauce Burger', 'Burger & Coke Combo', 'Crumbed Veggie Burger', 'Beyond Burger', 'Beef Burger', 'Chicken Burger']
+	Burgers			['Original Spur Burger', 'Texan-Fried Chicken Burger', 
+					 'Cheese Burger', 'Cheese & Bacon Burger', 
+					 'Cheddamelt Burger', 'Cheese, Bacon & Guacamole Burger', 
+					 'Goodie Burger', 'Sauce Burger', 'Burger & Coke Combo', 
+					 'Crumbed Veggie Burger', 'Beyond Burger', 'Beef Burger', 
+					 'Chicken Burger']
 
 	Seafood			['Hake & Chips', 'Calamari Strips & Hake', 
 					 'Cheesy Garlic Prawns', 'Calamari Strips', 'Fish Fingers']
 	
 	Schnitzel Grill ['Half Ranch Chicken', 'Grilled BBQ Chicken Breasts', 
-					 'Lamb Chops', 
-					 'Pork Chops', 'Chicken Schnitzel', 'Cheesy Garlic Prawn Schnitzel', 
-					 'Hawaiian Schnitzel', 'Cheddamelt Schnitzel', 'Mixed Chop Platter', 
-					 'Crumbed Chicken Strips', 'Grilled Chicken Strips', 'Grilled Chicken & Salad']
+					 'Lamb Chops', 'Pork Chops', 'Chicken Schnitzel', 
+					 'Cheesy Garlic Prawn Schnitzel', 
+					 'Hawaiian Schnitzel', 'Cheddamelt Schnitzel', 
+					 'Mixed Chop Platter', 'Crumbed Chicken Strips', 
+					 'Grilled Chicken Strips', 'Grilled Chicken & Salad']
 	
 	Rib Combos		['Spur's Famous Pork Spare Ribs', 'Ribs & Chicken combo', 
-					 'Ribs & Buffalo Wings combo', 'T-Bone & Wings', '200g Riblets']
+					 'Ribs & Buffalo Wings combo', 'T-Bone & Wings', 
+					 '200g Riblets']
 
 	Vegetarian		['Greek Salad', 'Fresh Hot Veg', 'Chips', 'Onion Rings', 
-					 'Baked Potato', 'Sweet Potato Fries', 'Veg Friendly Nachos', 'Garnish', 'Crispy Cheesy Garlic Roll',' Starter Nachos Mexicana', 'Bread Rolls', 'Cheesy Quesadilla', 'Butter', 'Strips and Avo Salad']
+					 'Baked Potato', 'Sweet Potato Fries', 'Veg Friendly Nachos', 
+					 'Garnish', 'Crispy Cheesy Garlic Roll', 
+					 'Starter Nachos Mexicana', 'Bread Rolls', 
+					 'Cheesy Quesadilla', 'Butter', 'Strips and Avo Salad']
 
 	Other			['Buttercups Cheese Pizza', 
-					 'Buffalo Braves Chicken & Cheese Pizza', 'Soaring Eagles Pineapple Cheese & Bacon Pizza', 'Home-made Cheesy Macaroni', 'Wacky Viennas', 'Toasted Treats',  'Birthday Combo Meal', 'Crumbed Mushrooms']
+					 'Buffalo Braves Chicken & Cheese Pizza', 
+					 'Soaring Eagles Pineapple Cheese & Bacon Pizza', 
+					 'Home-made Cheesy Macaroni', 'Wacky Viennas', 
+					 'Toasted Treats',  'Birthday Combo Meal', 'Crumbed Mushrooms']
 
-	Desserts		['Peppermint Crisp Tart', 'Chocolate Brownie', 'Malva Pudding', 
-					 'Oreo Cheesecake', 'Classic Waffle', 'Bar-One Waffle', 'Ice Cream & Chocolate Sauce', 'Ice Cream & Bar-One Sauce', 'Pecan Nut Sundae Delight', 'Peppermint Crisp Sundae Delight', 'Milkshakes', 'Bar-One Shake', 'Soda Floats', 'Hot Chocolate', 'Bar-One Hot Chocolate', 'Canyon Cups Strawberry Mallow', 'Canyon Cups Caramel Popcorn', 'Canyon Cups Cookies & Fudge', 'Cone on the Go', 'Soft Serve Bowl', 'Spurs Half-a-Waffle', 'Chico the Clown']
+	Desserts		['Peppermint Crisp Tart', 'Chocolate Brownie', 
+					 'Malva Pudding', 'Oreo Cheesecake', 'Classic Waffle', 
+					 'Bar-One Waffle', 'Ice Cream & Chocolate Sauce', 
+					 'Ice Cream & Bar-One Sauce', 'Pecan Nut Sundae Delight', 
+					 'Peppermint Crisp Sundae Delight', 'Milkshakes', 
+					 'Bar-One Shake', 'Soda Floats', 'Hot Chocolate', 
+					 'Bar-One Hot Chocolate', 'Canyon Cups Strawberry Mallow', 
+					 'Canyon Cups Caramel Popcorn', 'Canyon Cups Cookies & Fudge', 
+					 'Cone on the Go', 'Soft Serve Bowl', 'Spurs Half-a-Waffle', 
+					 'Chico the Clown']
 	
 	Sauces			['Peri-Peri', 'Pepper', 'Cheese', 'Garlic', 'Cheesy Garlic', 
 					 'Manhattan Mushroom', 'Basting Sauce']
@@ -287,7 +383,8 @@ SPUR
 
 	Alcohol 		['Amarula Hot Chocolate', 'Dom Pedros', 'Speciality Coffee']
 
-	Specials		['Monday Burger Special', 'Game On', 'Unreal Breakfast Special']
+	Specials		['Monday Burger Special', 'Game On', 
+					 'Unreal Breakfast Special']
 
 
 
@@ -314,36 +411,57 @@ THE HUSSAR GRILL
 					 ]
 
 
-	Beef 			['Traditional Boerewors', 'Hussar Beef Biltong', 'Beef and Reef']
+	Beef 			['Traditional Boerewors', 'Hussar Beef Biltong', 
+					 'Beef and Reef']
 
-	Steaks			['Fillet', 'Rump', 'Sirloin', 'Ribeye', 'Game Steaks', 'Blue Cheese Sirloin', 'Fillet Bearnaise', 'Madagascan Pepper Fillet', 'Fillet Moutarde', 'Hollandse Biefstuk', 'Chateaubriand', 'Hussar Carpetbagger', 
-					 'The Hussar Steak Roll', 'Steak Tartar', 'T-Bone', 'Fillet on the Bone', 'Sirloin on the Bone']
+	Steaks			['Fillet', 'Rump', 'Sirloin', 'Ribeye', 'Game Steaks', 
+					 'Blue Cheese Sirloin', 'Fillet Bearnaise', 
+					 'Madagascan Pepper Fillet', 'Fillet Moutarde', 
+					 'Hollandse Biefstuk', 'Chateaubriand', 'Hussar Carpetbagger', 
+					 'The Hussar Steak Roll', 'Steak Tartar', 'T-Bone', 
+					 'Fillet on the Bone', 'Sirloin on the Bone']
 
-	Seafood			['Kingklip', 'Mussels', 'Mussel Pot', 'Queen Prawns', 'Patagonian Calamari', 
-					 'Trio of Snails', 'Prawn and Fresh Avocado Cocktail', 'Calamari and Chorizo', 'Salmon']
+	Seafood			['Kingklip', 'Mussels', 'Mussel Pot', 'Queen Prawns', 
+					 'Patagonian Calamari', 
+					 'Trio of Snails', 'Prawn and Fresh Avocado Cocktail', 
+					 'Calamari and Chorizo', 'Salmon']
 
-	Chicken			['Chicken Livers', 'Deboned Half Chicken', 'Parmesan Chicken Breasts', 						 'Chicken Roulade with Mushroom Sauce']
+	Chicken			['Chicken Livers', 'Deboned Half Chicken', 
+					 'Parmesan Chicken Breasts', 
+					 'Chicken Roulade with Mushroom Sauce']
 
-	Vegetarian		['Fried Halloumi', 'Lentil Curry', 'Gnocchi', 'Crispy Onion Rings', 
-					 'Pan-fried Mushrooms', 'Parmesan Truffle Chips', 'Side Salad', 'Patotoes', 'Sauted Green Beans', 'Gratinated Corn', 'Cream Spinach and Cinnamon-infused Butternut', 'Oven-roasted Vegetables', 'Tomato Salad', 'Greek', 'Fresh Greens', 'Italian Tomato Soup', 'Large Black Mushroom', 'Tomato and Onion', 'Caramelised Pear, Blue Cheese and Walnut', 'Fried Crumbed Camembert']
+	Vegetarian		['Fried Halloumi', 'Lentil Curry', 'Gnocchi', 
+	'Crispy Onion Rings', 'Pan-fried Mushrooms', 'Parmesan Truffle Chips', 
+	'Side Salad', 'Patotoes', 'Sauted Green Beans', 'Gratinated Corn', 
+	'Cream Spinach and Cinnamon-infused Butternut', 'Oven-roasted Vegetables', 
+	'Tomato Salad', 'Greek', 'Fresh Greens', 'Italian Tomato Soup', 
+	'Large Black Mushroom', 'Tomato and Onion', 
+	'Caramelised Pear, Blue Cheese and Walnut', 'Fried Crumbed Camembert']
 
 	Lamb 			['Lamb Shank', 'Skilpadjie', 'Grilled Lamb Loin Chops']
 
 
 	Sauces 			['Bearnaise Sauce', 'Monkeygland Sauce', 'Mushroom Sauce', 
-					 'Smoked Paprika Sauce', 'Madagascan Pepper Sauce', 'Garlic Sauce', 
+					 'Smoked Paprika Sauce', 'Madagascan Pepper Sauce', 
+					 'Garlic Sauce', 
 					 'Cheddar Cheese Sauce', 'Blue Cheese Sauce', 'Cafe de Paris']
 
 	Desserts		['Baked Cheesecake', 'Crème Brule', 'Chocolate Fondant', 
-					 'Hussar Grill Ice Cream', 'Malva Pudding', 'Vanilla Ice Cream and Decadent Chocolate Sauce']
+					 'Hussar Grill Ice Cream', 'Malva Pudding', 
+					 'Vanilla Ice Cream and Decadent Chocolate Sauce']
 
 	
-	Alcohol 		['Ciders, Beers, Wines, Brandy, Cognac, Whiskey, Gin, Vodka, Rum, Mojito',				 	 'Pina Colada', 'Perfect Malfy', 'Mascow Mule', 'Margarita', Dom Pedro', 					 'Speciality Coffee', 'Jameson Irish Coffee']
+	Alcohol 		['Ciders', 'Beers', 'Wines', 'Brandy', 'Cognac', 'Whiskey', 
+					 'Gin', 'Vodka', 'Rum', 'Mojito', 'Pina Colada', 
+					 'Perfect Malfy', 'Mascow Mule', 'Margarita', 'Dom Pedro', 
+					 'Speciality Coffee', 'Jameson Irish Coffee']
 	
-	Hot Bev 		['Caffe Latte', 'Cappuccino', 'Espresso', 'Ceylon Tea', 'Rooibos Tea', 
+	Hot Bev 		['Caffe Latte', 'Cappuccino', 'Espresso', 'Ceylon Tea', 
+					 'Rooibos Tea', 
 					 'Decaffeinated Coffee', 'Americano']
 
-	Cold Bev 		['Red Bull', 'BOS Ice Tea', 'Fresh Fruit Juice', 'Soft Drinks', 'Water']
+	Cold Bev 		['Red Bull', 'BOS Ice Tea', 'Fresh Fruit Juice', 
+					 'Soft Drinks', 'Water']
 
 
 

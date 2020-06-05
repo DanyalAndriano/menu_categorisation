@@ -299,7 +299,7 @@ ROCO MAMAS
 					 'Waffles', 'Classic', 'Cookies & Cream', 'Nutella & Banana']
 
  	Sauces 			['Old Skool BBQ Sauce', 'Blue Cheese Dressing', 'Rocoma Yo', 
- 					'Smoked Mayo', 'Chilli Mayo', 'Cheese Sauce', 'Mofo Mayo']
+ 					 'Smoked Mayo', 'Chilli Mayo', 'Cheese Sauce', 'Mofo Mayo']
 
 
 
@@ -431,12 +431,15 @@ THE HUSSAR GRILL
 					 'Chicken Roulade with Mushroom Sauce']
 
 	Vegetarian		['Fried Halloumi', 'Lentil Curry', 'Gnocchi', 
-	'Crispy Onion Rings', 'Pan-fried Mushrooms', 'Parmesan Truffle Chips', 
-	'Side Salad', 'Patotoes', 'Sauted Green Beans', 'Gratinated Corn', 
-	'Cream Spinach and Cinnamon-infused Butternut', 'Oven-roasted Vegetables', 
-	'Tomato Salad', 'Greek', 'Fresh Greens', 'Italian Tomato Soup', 
-	'Large Black Mushroom', 'Tomato and Onion', 
-	'Caramelised Pear, Blue Cheese and Walnut', 'Fried Crumbed Camembert']
+					 'Crispy Onion Rings', 'Pan-fried Mushrooms', 
+					 'Parmesan Truffle Chips', 'Side Salad', 'Patotoes', 
+					 'Sauted Green Beans', 'Gratinated Corn', 
+					 'Cream Spinach and Cinnamon-infused Butternut', 
+					 'Oven-roasted Vegetables', 'Tomato Salad', 'Greek', 
+					 'Fresh Greens', 'Italian Tomato Soup', 
+					 'Large Black Mushroom', 'Tomato and Onion', 
+					 'Caramelised Pear, Blue Cheese and Walnut', 
+					 'Fried Crumbed Camembert']
 
 	Lamb 			['Lamb Shank', 'Skilpadjie', 'Grilled Lamb Loin Chops']
 

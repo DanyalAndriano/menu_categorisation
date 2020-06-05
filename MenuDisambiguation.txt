@@ -19,6 +19,10 @@ Broader Categories Include:
 
 	...and some smaller ones unique to the kinds of restaurant that exist.
 
+NB: The (+) Sign Means It Is A Suggestion/Question/Action Taken
+
+
+
 
 
 
@@ -125,14 +129,15 @@ Broader Categories Include:
 						JOHN DORY's
 -------------------------------------------------------
 + 'Other' contains items that need categorisation
++ 'Better For Your Meal' is a chicken burger so I placed it in 'Chicken'
 
 
 	Other			['Mussel Bowl', 'Fresh Oysters', 
-					 'Cheesy Jalapeno Poppers', 'Clam Chowder', 'Flame-Grilled Bacon Wrapped Poppers']
+					 'Cheesy Jalapeno Poppers', 'Clam Chowder', 'Flame-Grilled Bacon Wrapped Poppers', 'Cheezy Pizza']
 
 
 	Chicken			['Chicken Tacos', 'Chicken Bowl', 'Cajun Chicken Salad', 
-					 'Buffalo Wings']
+					 'Buffalo Wings', 'Better For Your Meal']
 
 	Fish			['Hake & Chips', 'Sole', 'Kingklip', 'Hake Thermidor', 
 					 'Calamari Tubes', 'Kingklip Fishwich', 'Fish Cakes', 'Fish Tacos', 'Salmon Bowl']
@@ -147,7 +152,15 @@ Broader Categories Include:
 
 
 	Combos			['Hake & Calamari Tubes', 'Calamari Tubes & Prawns', 
-					 '1/4 Chicken & Ribs', 'Sole & Prawn', 'Sole & Calamari Strips', 'Double Hake & Calamari Strips', 'Hake & Prawns']
+					 '1/4 Chicken & Ribs', 'Sole & Prawn', 'Sole & Calamari Strips', 'Double Hake & Calamari Strips', 'Hake & Prawns', 
+					 'Fish Fingers and Chips', 
+					 'Calamari Strips and Chips',
+					 'Prawns and Chips', 
+					 '1/4 Chicken and Chips', 
+					 'Ribs and Chips', 
+					 'Chicken Cheese Burger and Chips', 
+					 'Hake and Chips', 
+					 'Chicken Strips and Chips']
 
 
 	Grills			['Tender Cut Steak', 'Portuguese Steak', 'Surf & Turf', 
@@ -171,7 +184,10 @@ Broader Categories Include:
 					 'Coleslaw', 'John Dorys Prawns', 'Tempura Onion Rings', 'Seasonal Veg', 'Cheesy Garlic Roll', 'Portuguese Roll', 'Greek Salad']
 
 	Desserts		['Brownie', 'Peppermint Tart', 'Mini Doughnuts', 
-					 'Ice Cream & Bar-One Sauce', 'JD Style Tiramisu', 'Milkybar & Jelly Tots', 'Kikkat', 'Milkshakes', 'Salted Caramel', 'Milkybar and Jelly Tots', 'Salted Caramel', 'Shakes']
+					 'Ice Cream & Bar-One Sauce', 'JD Style Tiramisu', 'Milkybar & Jelly Tots', 'Kikkat', 'Milkshakes', 'Salted Caramel', 'Milkybar and Jelly Tots', 'Salted Caramel', 'Shakes',
+					 'Ice Cream and Bar-One Sauce', 
+					 'Ice Cream and Chocolate Pearls', 
+					 'Slush Puppie']
 
 	Cold Bev 		['Regular Soda', 'Large Soda', 'Powerplay', 'Sugar Free Soda', 
 					'Lipton Ice Tea Cans', 'Valpre Water', 'Liqui Fruit', 'Tisers','Fresh Fruit Juice',  'Ceres', 'Cordial']
@@ -180,20 +196,6 @@ Broader Categories Include:
 
 	Alcohol			['Dom Pedro', 'Irish Coffee']
 
-	Meals (Kids)	[
-					 'Fish Fingers and Chips', 
-					 'Calamari Strips and Chips',
-					 'Prawns and Chips', 
-					 '1/4 Chicken and Chips', 
-					 'Ribs and Chips', 
-					 'Chicken Cheese Burger and Chips', 
-					 'Hake and Chips', 
-					 'Chicken Strips and Chips', 
-					 'Cheezy Pizza', 
-					 'Better For Your Meal', 
-					 'Ice Cream and Bar-One Sauce', 
-					 'Ice Cream and Chocolate Pearls', 
-					 'Slush Puppie']
 
 
 
@@ -201,8 +203,10 @@ Broader Categories Include:
 
 -------------------------------------------------------
 						ROCO
--------------------------------------------------------	+ Their menu does not specify clearly what some items are . So It is harder to classify the items into categories especially those with ambiguous names such as 'Rocket' - the other items I simply placed them in categories by generalising.
-	+ 'Other' & 'Add-ons' need to be looked at. Can they be placed in the broader categories or have new categories created for them
+-------------------------------------------------------	
++ Their menu does not specify clearly what some items are . So It is harder to classify the items into categories especially those with ambiguous names such as 'Rocket'.
+	
++ 'Other' & 'Add-ons' need to be looked at. Can they be placed in the broader categories or have new categories created for them
 
 
 
@@ -236,9 +240,6 @@ Broader Categories Include:
 -------------------------------------------------------
 						SPUR
 -------------------------------------------------------
-NB: The (+) Sign Means It Is A Suggestion/Question
-
-
 + The 'Other' category has items that need suggestions for where they can be categorised. I'm not finding enough info from Spur's menu to suggest if some are vegan or not...for instance 'Crumbed Mushrooms' - traditionally they are unless they are fried in animal fat or oil that had previously fried meats
 
 + Keep 'Breakfast' category as there's a lot of items in it (could match with Wimpy since they also do breakfast)

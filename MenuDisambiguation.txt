@@ -485,6 +485,44 @@ THE HUSSAR GRILL
 
 
 
+
 -------------------------------------------------------
-					
+DEBONAIRS					
+-------------------------------------------------------
+
++ 
+
+
+	Meat 			['Club', 'Something Meaty', 'Beef Steak & Mushroom', 
+					 'Mexican Fiesta', 'Four Seasons', 'Hawaiian', 'Meaty-Filla', 'Cramed-Crust Mixed Grill', 'Chicken & Mushroom']
+
+	Vegetarian 		['Original Veggie', '3 Cheese', 'Red Hot Veggie', 
+					 'Classic Margherita']
+
+	Chicken 		['Tikka Chicken', 'Chicken & Mushroom', 
+					 'Sweet Chilli Chicken', 'BBQ Chicken', 
+					 'Sweet & Sour Chicken']
+
+	Toppings 		['Debonairs Sauce', 'BBQ Sauce', 'Mexican Sauce', 
+					 'Sweet Chilli Sauce', 'Spicy Mayo Sauce', 
+					 'Sweet & Sour Sauce', 'Garlic', 'Tomato', 'Green Pepper',
+					 'Mushroom', 'Onion', 'Crushed Chilli in Oil', 'Jalapeno, 
+					 'Pineapple', 'Pepperoni', 'Olives', 'Tikka Sauce', 
+					 'Sweet Bell Pepper', 'Chicken', 'Ground Beef', 'Bacon', 
+					 'Ham', 'Chicken', 'Spare Rib', 'Beef Steak Pieces', 
+					 'Cheddar', 'Mozzarella', 'Feta']
+
+	Speciality 		['Meat Tripple-Decker', 'Creamy Chicken Tripple-Decker', 
+					 'Pepperoni & Olive', 'BBQ Bacon', 'Seasonal Veg', 
+					 'Spicy Chicken', 'Creamy Chicken', 'Sweet & Sour Rib']
+
+	Sides 			['BBQ Chicken Wings', 'Cocktail Cheese Grillers', 
+					 'Death By Chocolate', 'Cheese & Garlic Bread', 
+					 'Cocktail Sausages']
+
+
+
+
+-------------------------------------------------------
+MUGG & BEAN					
 -------------------------------------------------------

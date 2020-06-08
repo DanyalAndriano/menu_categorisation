@@ -118,21 +118,22 @@ CAPE TOWN FISH MARKET
 -------------------------------------------------------
 OCEAN BASKET 				
 -------------------------------------------------------
-+ Some Sushi items were placed in 'Platters' category because they are sushi platters (we can always revert back to the way they were group before)
++ With 'Village Salad' & 'Village Table Salad' I cannot find enough information on what the ingredients are - there are also no conclusive pictures.
 
-++ Create Vegetarian category for all non-meat (salads, bread, etc)
-++ Create sides category for sides
-++ Put squid dishes in Calamari
-++ Place fish salads under fish
+
+
 ++ Any other mollusks served? Clams, Oysters?
+	+ NO
 ++ No chicken or beef, right?
+	+ YES
 
-	Vegetarian		['Halloumi Cheese', 'Tzatziki or Tarama', 'Olives or Feta', 
-					Village Salad', 'Village Table Salad', 'Med Veg Bowl'] <-- idk if these are all vege. Pls check
 
-	Sides			['Chips'] <-- Add all sides
 
-	Mollusks		['Lemon Garlic Mussels',''Mussels, 'Med Sauce Mussels']
+	Vegetarian		['Tzatziki or Tarama', 'Olives or Feta', 'Med Veg Bowl']
+
+	Sides			['Halloumi Cheese', 'Chips', 'Rice', 'Side Salad', 'Roasted Med Veg']
+
+	Mollusks		['Lemon Garlic Mussels','Mussels', 'Med Sauce Mussels']
 
 	Fish			['Whitebait and Calamari', 'Whitebait', 'Seared Salmon Salad',
 					 'Famous Fish and Chips', 'Kingklip', 'Sole', 'Grilled Salmon']
@@ -175,12 +176,11 @@ OCEAN BASKET
 -------------------------------------------------------
 JOHN DORY's 				
 -------------------------------------------------------
-
-
 ++ Is Coleslaw a side?
 	+ YES, according to their menu
 ++ What vegetarian dishes are there that AREN'T sides?
 	+ Moved 'Greek Salad' & 'Cheesy Jalapeno Poppers' to sides
+
 
 
 	Sides	 		['Side Salad', 'Chips', 'Savoury Rice','Coleslaw', 'Tempura Onion Rings', 
@@ -318,7 +318,7 @@ SPUR
 -------------------------------------------------------
 
 ++ What is a 'Birthday Combo Meal'?
-	+ It's a meal where kids can choose any Kids' meal such as beef burger, fish fingers, viennas, toasties or pizza. It also includes a drink of the customer's choice
+	+ It's a meal where kids can choose any Kids' meal such as beef burger, fish fingers, viennas, toasties or pizza. It also includes a drink of the customer's choice.
 
 
 ++ ASK RYAN:
@@ -391,7 +391,12 @@ SPUR
 
 	Drinks			['Mineral Water', 'Fruit Juice', 'Sodas', 'Sodas Sugar Free']
 
-	Alcohol 		['Amarula Hot Chocolate', 'Dom Pedros', 'Speciality Coffee']
+	Alcohol 		['Amarula Hot Chocolate', 'Dom Pedros', 'Speciality Coffee', 
+					 'Black Label', 'Castle Lager', 'Castle Lite', 'Windhoek Draught', 
+					 'Heineken', 'Drodsty-Hof Adelpracht', 'Two Oceans cabernet Merlot', 
+					 'Two Oceans Sauvignon Blacc', 'Gordons Gin', 'J&B Whiskey', 
+					 'Smirnoff Vodka', 'Tanqueray Gin', 'Richelieu Brandy', 'Savanna Dry', 
+					 'Savanna Light', 'Flying Fish Lemon', 'Hunters Dry', 'Hunters Gold']
 
 	Specials		['Monday Burger Special', 'Game On', 
 					 'Unreal Breakfast Special']

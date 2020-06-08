@@ -30,20 +30,18 @@ NB: The (+) Sign Means It Is A Suggestion/Question/Action Taken
 -------------------------------------------------------
 CAPE TOWN FISH MARKET
 -------------------------------------------------------
-+ Added 'Platters' and 'Combos' into a single category
-+ Items I'm unsure about are in the 'Other' category. They are basically a cross between two or more categories. 
-  I could simply look at them in a generalised way and put them into categories they would fit better in generally. 
-  For instance, 'CTFM Burger' could be placed in the 'Meat' category ()
 
 ++ Is this on the sushi menu? 'Tempura-fried Chilli Poppers'
-++ Are seafood noodles vegetarian?
+	+ YES (and it's vegan - should I moved it there instead)
+
 ++ Please check whether any MixedSeafood should be MixedMeat
+	+ 'Surf & Turf' & 'Exclusive Surf & Turf' are a mixture of meat and seafood. Do I keep them as MixedSeafood or should they moved.
 	
 
-	Vegetarian 		['Greek', 'Rice Paper Rolls', 'Seafood Noodles', 
+	Vegetarian 		['Greek', 'Rice Paper Rolls', 
 					 'Green Salad', 'Cheese and Garlic Bread']
 
-++  Sides 			['Mash', 'Chips', 'Onion Rings','Savoury Rice']
+	Sides 			['Mash', 'Chips', 'Onion Rings','Savoury Rice']
 
 	Other 			['Mussels', 'Crabstick']
 
@@ -51,10 +49,11 @@ CAPE TOWN FISH MARKET
 					 'Kataifi Bites', 'Fish Goujons', 'Fish Curry', 
 					 'Fish & Chips', 'Teriyaki Salmon', 'Kingklip', 'Sole', 'Classic Poke']
 
-	Shellfish 		['Tempura Prawns', 'Prawn Tacos', 'Prawn Popcorn', 'Ebi Bites', 'Crayfish',
+	Shellfish 		['Tempura Prawns', 'Prawn Tacos', 'Prawn Popcorn', 
+					 'Ebi Bites', 'Crayfish',
 				 	 'Prawn Spring Rolls', 'Prawn Croquettes', 'Grilled Prawns', 'Prawn Curry']
 
-++ Calamari			['Calamari Strips', 'Calamari', 'Robata Baby Squid']
+	Calamari		['Calamari Strips', 'Calamari', 'Robata Baby Squid']
 
 	Sushi 			['Salmon Roses','Teriyaki Salmon', 'Tuna Roses', 
 					 'Seared Tuna Roses', 'Tuna Carpaccio', 'Sashimi', 
@@ -65,14 +64,15 @@ CAPE TOWN FISH MARKET
 					 'Tempura-fried Chilli Poppers', 'Tuna & Avocado', 
 					 'Sandy Bay', 'St Helena Bay', 'Walvis Bay', 'Betty's Bay']
 
-++	MixedSeafood	 ['Fish Hoek Platter', 'False Bay Platter', 'Kalk Bay Platter', 
+	MixedSeafood	 ['Fish Hoek Platter', 'False Bay Platter', 
+					  'Kalk Bay Platter', 
 					  'Hout Bay Platter', 'Executive Platter', 'Seafood Plank', 
-					  'Hake & Calamari','Sole & Calamari', 'Prawn & Calamari', 'Potjie']
+					  'Hake & Calamari','Sole & Calamari', 'Prawn & Calamari', 'Potjie', 'Seafood Noodles']
 
 	RedMeat 		['Sirloin Steak', 'T-bone Steak', 'Lamb Croquettes', 
 					 'Beef Ribs', 'CTFM Burger']
 	
-++  MixedMeat		['Surf & Turf', 'Executive Surf & Turf']
+	MixedMeat		['Surf & Turf', 'Executive Surf & Turf']
 
 	Chicken 		['Chicken Schnitzel', 'Chicken Caesar', 'Chicken Curry']
 
@@ -127,17 +127,17 @@ OCEAN BASKET
 ++ Any other mollusks served? Clams, Oysters?
 ++ No chicken or beef, right?
 
-++	Vegetarian		['Halloumi Cheese', 'Tzatziki or Tarama', 'Olives or Feta', 
+	Vegetarian		['Halloumi Cheese', 'Tzatziki or Tarama', 'Olives or Feta', 
 					Village Salad', 'Village Table Salad', 'Med Veg Bowl'] <-- idk if these are all vege. Pls check
 
-++  Sides			['Chips'] <-- Add all sides
+	Sides			['Chips'] <-- Add all sides
 
-++	Mollusks		['Lemon Garlic Mussels',''Mussels, 'Med Sauce Mussels']
+	Mollusks		['Lemon Garlic Mussels',''Mussels, 'Med Sauce Mussels']
 
 	Fish			['Whitebait and Calamari', 'Whitebait', 'Seared Salmon Salad',
 					 'Famous Fish and Chips', 'Kingklip', 'Sole', 'Grilled Salmon']
 
-	Shellfish		'Crumbed Prawn Tails', 'Prawn Special', 'Prince Prawns', 
+	Shellfish		['Crumbed Prawn Tails', 'Prawn Special', 'Prince Prawns', 
 					 'Queen Prawns', 'King Prawns', 'King Prawn Platter', ]
 
 	Calamari		['Calamari', 'Calamari 3 Ways', 'Calamari Steak', 'Firecracker Squid']
@@ -156,13 +156,14 @@ OCEAN BASKET
 					 'Strawberry Citrus', 
 					 'Rose Baklava', 'Yogi Berry']
 
-++ MixedSeafood		['Platter for 2', 'Solemate Platter', 'Rising Sun Platter', 
+	MixedSeafood	['Platter for 2', 'Solemate Platter', 
+					 'Rising Sun Platter', 
 					 'Salmon Platter', 'Family Platter', 'Full Deck Platter', 
 					 'Bite of the Ocean', 'Platter for 1', 'Meze Platter', 
 					 'Fish & Calamari', 'Calamari & Kingklip', 'Prawns & Mussels', 
 					 'Prawns & Calamari', 'Prawns & Fish', 'Prawns & Kingklip', 
 					 'Fusion Crunch Platter', 'Two Way Platter', 'Chans Platter', 
-					 'Bonsai Platter']
+					 'Bonsai Platter', 'Fritto Misto']
 
 	
 
@@ -188,7 +189,7 @@ JOHN DORY's
 
 	Vegetarian		['Greek Salad', 'Cheesy Jalapeno Poppers']
 					 
-++  Mollusks		['Mussel Bowl', 'Fresh Oysters', 'Clam Chowder']
+	Mollusks		['Mussel Bowl', 'Fresh Oysters', 'Clam Chowder']
 
 
 	Chicken			['Chicken Tacos', 'Chicken Bowl', 'Cajun Chicken Salad', 
@@ -207,13 +208,13 @@ JOHN DORY's
 					 'King Prawns', 'John Dorys Prawns',  
 					 'Cheesy Prawn Tails']
 
-++	MixedSeafood	['Hake & Calamari Tubes', 'Calamari Tubes & Prawns', 'Sole & Prawn', 
+	MixedSeafood	['Hake & Calamari Tubes', 'Calamari Tubes & Prawns', 'Sole & Prawn', 
 					 'Sole & Calamari Strips', 'Double Hake & Calamari Strips', 
 					 'Hake & Prawns', 'Sunset Platter', 'Coastal Platter', 'Johns Platter', 
 					 'Captains Platter', 'Island Platter', 'Wave Platter', 
 					 'Lovers Platter']
 					 
-++ MixedMeat		['Surf & Turf', 'Steak Thermidor', 'Steak & Scampi Prawn', 
+	MixedMeat		['Surf & Turf', 'Steak Thermidor', 'Steak & Scampi Prawn', 
 					 'Prawn & Chorizo Mac & Cheese', '1/4 Chicken & Ribs', 'Prawn and Bacon Pops']
 
 	RedMeat			['Tender Cut Steak', 'Portuguese Steak',
@@ -226,7 +227,7 @@ JOHN DORY's
 					 'Seared Salad', 
 					 'Prawn Salad', 'Poke Salmon', 'Poke Tuna', 
 					 'Two Oceans Platter', 
-					 'Rainbow Warrior Platter', 'Bean Curd', 'maritime Platter', 
+					 'Rainbow Warrior Platter', 'Bean Curd', 'Maritime Platter', 
 					 'California Rolls', 'Sandwiches', 'Hake Nuggets', 'Maki', 
 					 'Salmon Roses', 
 					 'Hand Roll', 'Vegetarian Futomaki', 'The Bomb', 
@@ -307,7 +308,7 @@ especially those with ambiguous names such as 'Rocket'.
 
 
 
-	Desserts		[Slow Death By Chocolate', 'Candylicious', 'Surprise Me!', 
+	Desserts		['Slow Death By Chocolate', 'Candylicious', 'Surprise Me!', 
 					 'Bubblegum', 'Strawberry', 'Blueberry', 
 					 'Belgian Chocolate Espresso', 'Oreo', 'Peanut Butter Toffee', 
 					 'Waffles', 'Classic', 'Cookies & Cream', 'Nutella & Banana']
@@ -322,16 +323,12 @@ especially those with ambiguous names such as 'Rocket'.
 -------------------------------------------------------
 SPUR 				
 -------------------------------------------------------
-+ The 'Other' category has items that need suggestions for where they can be categorised. 
-I'm not finding enough info from Spur's menu to suggest if some are vegan or not...for instance 'Crumbed Mushrooms' - 
-traditionally they are unless they are fried in animal fat or oil that had previously fried meats
-
-+ Keep 'Breakfast' category as there's a lot of items in it (could match with Wimpy since they also do breakfast)
 
 ++ NOTE: We don't need to differentiate vegan from vegetarian.
 ++ Grills are not a primary category and should be separated into relevant meat categories
 
-++ What is a 'Birthday Combo Meal'? 
+++ What is a 'Birthday Combo Meal'?
+	+ It's a meal where kids can choose any Kids' meal such as beef burger, fish fingers, viennas, toasties or pizza
 
 
 ++ ASK RYAN:
@@ -344,17 +341,17 @@ traditionally they are unless they are fried in animal fat or oil that had previ
 					 'Trailblazer', 'Kickstarter', 'Unreal Breakfast', 'Breakfast Top ups',
 					 'Hash Brown']
 
-++  Sarmies			['Avo on Toast', 'Toasted Sarmies', 'Toasted Treats',
+	Sarmies			['Avo on Toast', 'Toasted Sarmies', 'Toasted Treats',
 					 'Tangy Cheese and Tomato Toasted Sandwich', 
 					 'Chicken Mayonnaise Toasted Sandwich', 'Bacon, Egg and Cheese Toasted Sandwich']
 
-++  Sausages		['Wacky Viennas', 'Pork Sausages', 'Cheese Griller', 'Viennas']
+	Sausages		['Wacky Viennas', 'Pork Sausages', 'Cheese Griller', 'Viennas']
 
 	Steaks			['Chargrilled Rump', 'New York Sirloin', 'Fillet', 
 					 'Prawn Steak', 'T-Bone', 'Lazy Aged', 'Portuguese Steak', 
 					 'Cheesy Garlic Prawn Steak']
 
-++  BraaiMeats		['Lamb Chops', 'Mixed Chop Platter', 'Pork Chops']
+	BraaiMeats		['Lamb Chops', 'Mixed Chop Platter', 'Pork Chops']
 
 	Chicken 		['Starter Buffalo Wings', 'Crispy Golden Brown Chicken Nuggets', 'Chicken Livers', 
 					 'Chicken Strips', 'Chicken, Avo & Bacon Salad', 'Half Ranch Chicken', 
@@ -382,10 +379,10 @@ traditionally they are unless they are fried in animal fat or oil that had previ
 					 'Soaring Eagles Pineapple Cheese & Bacon Pizza', 
 					 'Home-made Cheesy Macaroni', 'Crumbed Mushrooms']
 
-++  Sides			['Fresh Hot Veg', 'Chips', 'Onion Rings', 'Baked Potato', 'Sweet Potato Fries',
+	Sides			['Fresh Hot Veg', 'Chips', 'Onion Rings', 'Baked Potato', 'Sweet Potato Fries',
  					 'Bread Rolls','Mushrooms' ]
 
-++  Ingredients_Seasoning		['Garnish', 'Butter', 'salt', 'pepper']
+	Ingredients_Seasoning		['Garnish', 'Butter', 'salt', 'pepper']
 
 	Desserts		['Peppermint Crisp Tart', 'Chocolate Brownie', 
 					 'Malva Pudding', 'Oreo Cheesecake', 'Classic Waffle', 

@@ -175,11 +175,8 @@ OCEAN BASKET
 -------------------------------------------------------
 JOHN DORY's 				
 -------------------------------------------------------
-+ 'Other' contains items that need categorisation
-+ 'Better For Your Meal' is a chicken burger so I placed it in 'Chicken'
 
-++ Chicken grills are still primarily chicken. 
-++ Chicken combos are primarily chicken
+
 ++ Is Coleslaw a side?
 ++ What vegetarian dishes are there that AREN'T sides?
 
@@ -242,6 +239,9 @@ JOHN DORY's
 					 'Smoked Cali Rolls', 
 					 'C & C Bombs', 'Snow  Crab Rolls', 'Prawn Reload', 
 					 'Caterpillar Roll']
+
+	Sauces 			['Creamy Mushroom Sauce', 'Creamy Garlic Sauce', 'Creamy Lemon Sauce', 
+					 'Cheese Sauce', 'Pepper Sauce', 'Garlic, Wine & White Wine Sauce']
 
 	Desserts		['Brownie', 'Peppermint Tart', 'Mini Doughnuts', 
 					 'Ice Cream & Bar-One Sauce', 'JD Style Tiramisu', 

@@ -178,13 +178,14 @@ JOHN DORY's
 
 
 ++ Is Coleslaw a side?
+	+ YES, according to their menu
 ++ What vegetarian dishes are there that AREN'T sides?
+	+ Moved 'Greek Salad' & 'Cheesy Jalapeno Poppers' to sides
 
 
 	Sides	 		['Side Salad', 'Chips', 'Savoury Rice','Coleslaw', 'Tempura Onion Rings', 
-					 'Seasonal Veg', 'Cheesy Garlic Roll', 'Portuguese Roll']
+					 'Seasonal Veg', 'Cheesy Garlic Roll', 'Portuguese Roll', 'Greek Salad', 'Cheesy Jalapeno Poppers']
 
-	Vegetarian		['Greek Salad', 'Cheesy Jalapeno Poppers']
 					 
 	Mollusks		['Mussel Bowl', 'Fresh Oysters', 'Clam Chowder']
 
@@ -257,7 +258,7 @@ JOHN DORY's
 					'Tisers','Fresh Fruit Juice',  'Ceres', 'Cordial']
 
 	Hot Bev 		['Coffee', 'Decaf', 'Cappucino', 'Espresso', 'Caffe Latter', 
-					 'Tea', 'Milo', 'Hot Chocolate', ]
+					 'Tea', 'Milo', 'Hot Chocolate', 'Choccochino']
 
 	Alcohol			['Dom Pedro', 'Irish Coffee']
 

@@ -324,11 +324,8 @@ especially those with ambiguous names such as 'Rocket'.
 SPUR 				
 -------------------------------------------------------
 
-++ NOTE: We don't need to differentiate vegan from vegetarian.
-++ Grills are not a primary category and should be separated into relevant meat categories
-
 ++ What is a 'Birthday Combo Meal'?
-	+ It's a meal where kids can choose any Kids' meal such as beef burger, fish fingers, viennas, toasties or pizza
+	+ It's a meal where kids can choose any Kids' meal such as beef burger, fish fingers, viennas, toasties or pizza. It also includes a drink of the customer's choice
 
 
 ++ ASK RYAN:
@@ -353,7 +350,8 @@ SPUR
 
 	BraaiMeats		['Lamb Chops', 'Mixed Chop Platter', 'Pork Chops']
 
-	Chicken 		['Starter Buffalo Wings', 'Crispy Golden Brown Chicken Nuggets', 'Chicken Livers', 
+	Chicken 		['Starter Buffalo Wings', 'Crispy Golden Brown Chicken Nuggets', 
+					 'Chicken Livers', 
 					 'Chicken Strips', 'Chicken, Avo & Bacon Salad', 'Half Ranch Chicken', 
 					 'Grilled BBQ Chicken Breasts', 'Chicken Schnitzel', 
 					 'Cheesy Garlic Prawn Schnitzel', 'Hawaiian Schnitzel', 'Cheddamelt Schnitzel', 
@@ -412,14 +410,6 @@ SPUR
 -------------------------------------------------------
 THE HUSSAR GRILL 				
 -------------------------------------------------------
-+ Made a 'Beef' and 'Steaks' separation because 'Boerewors' cannot be classified as 'Steak' but can be classified under 'Beef'
-
-+ 'Parmesan Chicken Breasts' and 'Chicken Roulade with Mushroom Sauce' can be potentially placed in Schnitzel Grill 
-   but they aren't really Grills nor are they true Schnitzels.
-
-+ Have look at 'Other' category please
-
-++ Please go through vegetarian and add sides to sides category 
 
 
 	Game 			['Cured Springbok Loin Corpaccio','Grilled Ostrich Fillet', 'Game Steaks']
@@ -449,17 +439,17 @@ THE HUSSAR GRILL
 					 'Parmesan Chicken Breasts', 
 					 'Chicken Roulade with Mushroom Sauce']
 
-	Vegetarian		['Fried Halloumi', 'Lentil Curry', 'Gnocchi', 
-					 'Pan-fried Mushrooms', 'Tomato Salad', 'Greek', 
-					 'Fresh Greens', 'Italian Tomato Soup', 
-					 'Large Black Mushroom', 'Tomato and Onion', 
-					 'Caramelised Pear, Blue Cheese and Walnut', 
-					 'Fried Crumbed Camembert']
+	Vegetarian		['Fried Halloumi', 'Lentil Curry', 'Gnocchi', 'Tomato Salad', 'Greek', 
+					 'Fresh Greens', 'Tomato and Onion', 
+					 'Caramelised Pear, Blue Cheese and Walnut']
 
 	Sides			['Crispy Onion Rings', 'Parmesan Truffle Chips', 'Side Salad', 'Pototoes',
-					'Sauted Green Beans', 'Gratinated Corn', 
+					 'Sauted Green Beans', 'Gratinated Corn', 
 					 'Cream Spinach and Cinnamon-infused Butternut', 
-					 'Oven-roasted Vegetables']
+					 'Oven-roasted Vegetables', 'Italian Tomato Soup', 
+					 'Large Black Mushroom', 
+					 'Fried Crumbed Camembert', 
+					 'Pan-fried Mushrooms']
 
 	Desserts		['Baked Cheesecake', 'Crème Brule', 'Chocolate Fondant', 
 					 'Hussar Grill Ice Cream', 'Malva Pudding', 

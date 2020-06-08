@@ -269,16 +269,9 @@ JOHN DORY's
 -------------------------------------------------------
 ROCO MAMAS			
 -------------------------------------------------------	
-+ Their menu does not specify clearly what some items are . So It is harder to classify the items into categories 
-especially those with ambiguous names such as 'Rocket'.
-	
-+ 'Other' & 'Add-ons' need to be looked at. Can they be placed in the broader categories or have new categories created for them
 
-++ Chicken salad should be chicken rather than salad. 
-
-++ Are these items sides or toppings? Place in appropriate categories pls:
-'Los Nachos', 'Six Bombs'
 ++ Is 'Rocket' referring to a dish or rocket the leafy plant (as a topping)?
+	+ It's a topping, found it.
 
 ++ ASK RYAN: 
 ++ 1) Should chicken burgers be burgers or chicken?
@@ -286,13 +279,12 @@ especially those with ambiguous names such as 'Rocket'.
 
 
 
- 	Other 			['Rocket']
-	Add-ons 		['Egg', 'Bacon', 'American Cheese', 'Aged Cheddar', 
+	Add-ons 		['Rocket', 'Egg', 'Bacon', 'American Cheese', 'Aged Cheddar', 
 					 'Swiss Cheese', 'Mozzarella', 'Feta', 'Guacamole', 
 					 'Mushrooms', 'Jalapenos', 'Caramelised Onions', 
 					 'Fresh Chilli', 'Sweet Pickles','Nachos Crumbs']	
 
-++	Sides			['Smashbrew Fried Onion Rings', 'Turbo Charged Fries']
+	Sides			['Smashbrew Fried Onion Rings', 'Turbo Charged Fries', 'Los Nachos', 'Six Bombs']
 
 	Chicken Burgers	['South Star', 'Chicken Smash']
 

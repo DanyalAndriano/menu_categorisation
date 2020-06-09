@@ -205,10 +205,8 @@ JOHN DORY's
 	Sushi			['Prawn Volcano', 'Dragon Roll', 'Tuna Crunch Roll', 
 					 'Executive Rainbow Roll', 
 					 'Salmon Sashimi', 'Sole Platter', 'Tuna Sashimi', 
-					 'Seared Salad', 
-					 'Prawn Salad', 'Poke Salmon', 'Poke Tuna', 
-					 'Two Oceans Platter', 
-					 'Rainbow Warrior Platter', 'Bean Curd', 'Maritime Platter', 
+					 'Seared Salad', Prawn Salad', 'Poke Salmon', 'Poke Tuna', 
+					 'Two Oceans Platter', 'Rainbow Warrior Platter', 'Bean Curd', 'Maritime Platter', 
 					 'California Rolls', 'Sandwiches', 'Hake Nuggets', 'Maki', 
 					 'Salmon Roses', 
 					 'Hand Roll', 'Vegetarian Futomaki', 'The Bomb', 
@@ -237,8 +235,8 @@ JOHN DORY's
 					 'Slush Puppie']
 
 	Cold Bev 		['Regular Soda', 'Large Soda', 'Powerplay', 'Sugar Free Soda', 
-					'Lipton Ice Tea Cans', 'Valpre Water', 'Liqui Fruit', 
-					'Tisers','Fresh Fruit Juice',  'Ceres', 'Cordial']
+					 'Lipton Ice Tea Cans', 'Valpre Water', 'Liqui Fruit', 
+					 'Tisers','Fresh Fruit Juice',  'Ceres', 'Cordial']
 
 	Hot Bev 		['Coffee', 'Decaf', 'Cappucino', 'Espresso', 'Caffe Latter', 
 					 'Tea', 'Milo', 'Hot Chocolate', 'Choccochino']

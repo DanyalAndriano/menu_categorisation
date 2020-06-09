@@ -31,12 +31,9 @@ NB: The (+) Sign Means It Is A Suggestion/Question/Action Taken
 CAPE TOWN FISH MARKET
 -------------------------------------------------------
 
-++ Is this on the sushi menu? 'Tempura-fried Chilli Poppers'
-	+ YES (and it's vegan - should I moved it there instead)
+RYAN:
+++ 'Tempura-fried Chilli Poppers' is vegan - should we move it to vegetarian?
 
-++ Please check whether any MixedSeafood should be MixedMeat
-	+ 'Surf & Turf' & 'Exclusive Surf & Turf' are a mixture of meat and seafood. Do I keep them as MixedSeafood or should they moved.
-	
 
 	Vegetarian 		['Greek', 'Rice Paper Rolls', 
 					 'Green Salad', 'Cheese and Garlic Bread']
@@ -118,19 +115,10 @@ CAPE TOWN FISH MARKET
 -------------------------------------------------------
 OCEAN BASKET 				
 -------------------------------------------------------
-+ With 'Village Salad' & 'Village Table Salad' I cannot find enough information on what the ingredients are - there are also no conclusive pictures on the net.
-The website does not even have a description of what the dishes contain
 
 
-
-++ Any other mollusks served? Clams, Oysters?
-	+ NO
-++ No chicken or beef, right?
-	+ YES
-
-
-
-	Vegetarian		['Tzatziki or Tarama', 'Olives or Feta', 'Med Veg Bowl']
+	Vegetarian		['Tzatziki or Tarama', 'Olives or Feta', 'Med Veg Bowl', 'Village Salad', 
+					 'Village Table Salad']
 
 	Sides			['Halloumi Cheese', 'Chips', 'Rice', 'Side Salad', 'Roasted Med Veg']
 
@@ -152,15 +140,12 @@ The website does not even have a description of what the dishes contain
 	Desserts		['Ice Cream with Decadent Sauce', 'Chocolate Lava Cake', 
 					 'Baklava Cheesecake', 'Baklava', 'Dom Pedro', 'Milkshakes', 
 					 'Ice Cream with Decadent Sauce', 
-					 'Ice Cream and Turkish Delight', 'Chocolate Lava Cake', 
-					 'Toffee Nut Pie', 
+					 'Ice Cream and Turkish Delight', 'Chocolate Lava Cake', 'Toffee Nut Pie', 
 					 'Kids Baklava', 'Kataifi', 'Choc Crunch', 
-					 'Strawberry Citrus', 
-					 'Rose Baklava', 'Yogi Berry']
+					 'Strawberry Citrus', 'Rose Baklava', 'Yogi Berry']
 
 	MixedSeafood	['Platter for 2', 'Solemate Platter', 
-					 'Rising Sun Platter', 
-					 'Salmon Platter', 'Family Platter', 'Full Deck Platter', 
+					 'Rising Sun Platter','Salmon Platter', 'Family Platter', 'Full Deck Platter', 
 					 'Bite of the Ocean', 'Platter for 1', 'Meze Platter', 
 					 'Fish & Calamari', 'Calamari & Kingklip', 'Prawns & Mussels', 
 					 'Prawns & Calamari', 'Prawns & Fish', 'Prawns & Kingklip', 
@@ -177,15 +162,12 @@ The website does not even have a description of what the dishes contain
 -------------------------------------------------------
 JOHN DORY's 				
 -------------------------------------------------------
-++ Is Coleslaw a side?
-	+ YES, according to their menu
-++ What vegetarian dishes are there that AREN'T sides?
-	+ Moved 'Greek Salad' & 'Cheesy Jalapeno Poppers' to sides
-
 
 
 	Sides	 		['Side Salad', 'Chips', 'Savoury Rice','Coleslaw', 'Tempura Onion Rings', 
-					 'Seasonal Veg', 'Cheesy Garlic Roll', 'Portuguese Roll', 'Greek Salad', 'Cheesy Jalapeno Poppers']
+					 'Seasonal Veg', 'Cheesy Garlic Roll', 'Portuguese Roll']
+
+	Vegetarian		['Greek Salad', 'Cheesy Jalapeno Poppers']
 
 					 
 	Mollusks		['Mussel Bowl', 'Fresh Oysters', 'Clam Chowder']
@@ -272,13 +254,8 @@ JOHN DORY's
 ROCO MAMAS			
 -------------------------------------------------------	
 
-++ Is 'Rocket' referring to a dish or rocket the leafy plant (as a topping)?
-	+ It's a topping, found it.
-
 ++ ASK RYAN: 
 ++ 1) Should chicken burgers be burgers or chicken?
-
-
 
 
 	Add-ons 		['Rocket', 'Egg', 'Bacon', 'American Cheese', 'Aged Cheddar', 
@@ -301,7 +278,6 @@ ROCO MAMAS
 	Salads			['Salsa', 'Spicy Coleslaw', 'Garden Greek']
 
 
-
 	Desserts		['Slow Death By Chocolate', 'Candylicious', 'Surprise Me!', 
 					 'Bubblegum', 'Strawberry', 'Blueberry', 
 					 'Belgian Chocolate Espresso', 'Oreo', 'Peanut Butter Toffee', 
@@ -318,13 +294,10 @@ ROCO MAMAS
 SPUR 				
 -------------------------------------------------------
 
-++ What is a 'Birthday Combo Meal'?
-	+ It's a meal where kids can choose any Kids' meal such as beef burger, fish fingers, viennas, toasties or pizza. It also includes a drink of the customer's choice.
-
-
 ++ ASK RYAN:
 ++ 1) Should chicken burgers be under chicken or burgers? Should chicken sarmies be Sarmies or Chicken?
 ++ 2) Split mixed meats into parent categories, or have mixed meat category?
+++ 3) Birthday combo meal under specials? It's a meal where kids can choose any Kids' meal such as beef burger, fish fingers, viennas, toasties or pizza. 
 
 	
 	Breakfast		['Ranch Breakfast', 'Cheese Griller Breakfast', 
@@ -470,24 +443,24 @@ THE HUSSAR GRILL
 
 
 
-
-
 -------------------------------------------------------
 DEBONAIRS					
 -------------------------------------------------------
 
-+ 
++ RYAN:
+There's a lot of overlap here....what would be the best way to categorize this?
 
 
 	Meat 			['Club', 'Something Meaty', 'Beef Steak & Mushroom', 
-					 'Mexican Fiesta', 'Four Seasons', 'Hawaiian', 'Meaty-Filla', 'Cramed-Crust Mixed Grill', 'Chicken & Mushroom']
+					 'Mexican Fiesta', 'Four Seasons', 'Hawaiian', 'Meaty-Filla', 
+					 'Cramed-Crust Mixed Grill']
 
 	Vegetarian 		['Original Veggie', '3 Cheese', 'Red Hot Veggie', 
 					 'Classic Margherita']
 
 	Chicken 		['Tikka Chicken', 'Chicken & Mushroom', 
 					 'Sweet Chilli Chicken', 'BBQ Chicken', 
-					 'Sweet & Sour Chicken']
+					 'Sweet & Sour Chicken', 'Chicken & Mushroom']
 
 	Toppings 		['Debonairs Sauce', 'BBQ Sauce', 'Mexican Sauce', 
 					 'Sweet Chilli Sauce', 'Spicy Mayo Sauce', 
